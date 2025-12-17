@@ -1,0 +1,564 @@
+age,gender,year of study,monthly budget for personal expenses (₹),do you currently own a laptop or smartphone suitable for your studies?,how old is your current primary device (laptop/phone)?,which product are you most likely to purchase in the next 6 months?,how urgently do you need this product?,your main reason for purchasing the product:,preferred budget range for the product:,preferred brand / platform:,"how important are the following factors when buying?
+list the factors:
+product price
+brand reputation
+features/specifications
+battery life
+design & look
+reviews & ratings
+warranty/service availability",how often do you buy electronic products online?,which apps/websites do you trust for buying products?,hours of screentime per day:,do you compare products before buying?,are you planning to purchase a new product within the next 6 months?
+25 or above,Male,Postgraduate,3000-5000,Yes,<1 year,Laptop,Ugrent,Skill development,>₹30000,HP / Dell / Lenovo,5,Sometimes,"Amazon, Flipkart, Croma, Manufacturer website (Apple/HP etc.)",>6,Always,Yes
+19-20,Female,3rd year,<1000,Yes,2-3 years,Not planning to buy anything,No need,Academic use,₹1000-3000,HP / Dell / Lenovo,3,Sometimes,Flipkart,4-6,Sometimes,No
+21-22,Female,3rd year,1000-3000,Yes,2-3 years,Laptop,Not urgent,Skill development,>₹30000,HP / Dell / Lenovo,5,Sometimes,"Amazon, Manufacturer website (Apple/HP etc.)",2-4,Always,Yes
+19-20,Female,3rd year,1000-3000,Yes,<1 year,Smartphone,Not urgent,Personal entertainment,>₹30000,Samsung / Xiaomi / Realme,4,Rarely,"Amazon, Flipkart",>6,Sometimes,Yes
+21-22,Male,3rd year,5000-8000,Yes,3-4 years,Laptop,No need,Personal entertainment,₹7000-15000,Apple,3,Rarely,Croma,4-6,Always,Yes
+21-22,Female,3rd year,1000-3000,Yes,2-3 years,Headphones,Not urgent,Replacement of old product,₹1000-3000,HP / Dell / Lenovo,5,Sometimes,"Amazon, Manufacturer website (Apple/HP etc.)",4-6,Always,No
+21-22,Female,3rd year,3000-5000,Yes,1-2 years,Smartphone,Not urgent,Personal entertainment,>₹30000,Apple,3,Rarely,"Amazon, Flipkart, Croma",4-6,Always,Yes
+21-22,Male,3rd year,1000-3000,Yes,2-3 years,Laptop,Not urgent,Personal entertainment,₹1000-3000,Apple,5,Sometimes,"Amazon, Flipkart, Croma",4-6,Sometimes,Yes
+21-22,Male,3rd year,3000-5000,Yes,1-2 years,Keyboard,Not urgent,Replacement of old product,₹1000-3000,No preference,5,Sometimes,Amazon,4-6,Sometimes,No
+25 or above,Prefer not to say,Postgraduate,1000-3000,No,1-2 years,Smartphone,Ugrent,Gaming,₹3000-7000,Apple,2,Sometimes,Flipkart,2-4,Sometimes,No
+19-20,Female,3rd year,3000-5000,Yes,2-3 years,Not planning to buy anything,No need,Replacement of old product,>₹30000,No preference,3,Rarely,"Amazon, Flipkart, Croma, Manufacturer website (Apple/HP etc.)",2-4,Rarely,No
+21-22,Female,4th year,5000-8000,Yes,3-4 years,Laptop,Extremely urgent,Replacement of old product,>₹30000,Apple,3,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Sometimes,Yes
+25 or above,Female,Postgraduate,3000-5000,Yes,>4 years,Not planning to buy anything,No need,Academic use,>₹30000,HP / Dell / Lenovo,5,Sometimes,"Amazon, Flipkart",>6,Sometimes,No
+21-22,Female,3rd year,<1000,Yes,2-3 years,Not planning to buy anything,Not urgent,Replacement of old product,₹7000-15000,HP / Dell / Lenovo,5,Rarely,"Amazon, Flipkart",2-4,Always,No
+21-22,Male,3rd year,1000-3000,Yes,2-3 years,Not planning to buy anything,Not urgent,Replacement of old product,₹7000-15000,Apple,5,Rarely,"Amazon, Flipkart",2-4,Always,No
+19-20,Female,3rd year,3000-5000,Yes,3-4 years,Not planning to buy anything,No need,Academic use,>₹30000,No preference,5,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Always,No
+25 or above,Female,Postgraduate,>8000,Yes,2-3 years,Smartphone,Not urgent,Replacement of old product,₹15000-30000,Apple,4,Sometimes,"Amazon, Flipkart, Croma",4-6,Always,Yes
+23-24,Male,4th year,5000-8000,Yes,3-4 years,Laptop,Ugrent,Skill development,>₹30000,HP / Dell / Lenovo,5,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Sometimes,Yes
+23-24,Male,Postgraduate,>8000,Yes,<1 year,"Online Course (e.g., Coursera, Udemy)",Not urgent,Skill development,₹3000-7000,Udemy / Coursera / Skillshare (for online course),2,Never,Amazon,>6,Always,No
+19-20,Female,2nd year,1000-3000,Yes,1-2 years,Smartphone,Ugrent,Academic use,₹15000-30000,Samsung / Xiaomi / Realme,4,Sometimes,Flipkart,2-4,Always,Yes
+19-20,Female,3rd year,>8000,Yes,2-3 years,"Online Course (e.g., Coursera, Udemy)",Not urgent,Skill development,₹15000-30000,Udemy / Coursera / Skillshare (for online course),4,Rarely,Amazon,2-4,Sometimes,No
+21-22,Male,2nd year,>8000,Yes,<1 year,Smartphone,Not urgent,Replacement of old product,>₹30000,Apple,5,Rarely,Manufacturer website (Apple/HP etc.),<2,Always,Yes
+19-20,Female,3rd year,1000-3000,Yes,1-2 years,Not planning to buy anything,No need,Skill development,<₹1000,No preference,5,Never,Manufacturer website (Apple/HP etc.),>6,Sometimes,Yes
+19-20,Female,3rd year,1000-3000,Yes,1-2 years,Laptop,Not urgent,Academic use,>₹30000,Apple,5,Sometimes,Amazon,4-6,Always,No
+19-20,Male,3rd year,3000-5000,Yes,2-3 years,Smartphone,Not urgent,Personal entertainment,>₹30000,Apple,3,Sometimes,"Amazon, Flipkart, Myntra , Ajio  and more",>6,Sometimes,Yes
+19-20,Male,3rd year,1000-3000,Yes,1-2 years,Not planning to buy anything,No need,Gaming,₹1000-3000,No preference,3,Very frequently,"Amazon, Flipkart",4-6,Always,No
+21-22,Female,3rd year,3000-5000,Yes,2-3 years,Laptop,Not urgent,Academic use,>₹30000,HP / Dell / Lenovo,3,Sometimes,"Amazon, Flipkart",>6,Always,No
+19-20,Female,2nd year,<1000,Yes,<1 year,"Online Course (e.g., Coursera, Udemy)",Not urgent,Academic use,<₹1000,Udemy / Coursera / Skillshare (for online course),4,Rarely,"Amazon, Flipkart",4-6,Always,No
+21-22,Male,3rd year,>8000,Yes,1-2 years,Smartphone,Not urgent,Replacement of old product,>₹30000,Samsung / Xiaomi / Realme,4,Sometimes,"Flipkart, Croma",>6,Always,Yes
+19-20,Female,3rd year,3000-5000,Yes,3-4 years,Laptop,Not urgent,Replacement of old product,₹7000-15000,HP / Dell / Lenovo,3,Sometimes,"Amazon, Flipkart",4-6,Always,Yes
+19-20,Female,3rd year,<1000,Yes,1-2 years,Not planning to buy anything,No need,Academic use,<₹1000,HP / Dell / Lenovo,5,Sometimes,Amazon,2-4,Always,No
+21-22,Prefer not to say,3rd year,<1000,No,>4 years,Laptop,No need,Gaming,<₹1000,Apple,1,Very frequently,Alibaba,>6,Never,No
+21-22,Female,3rd year,3000-5000,Yes,2-3 years,Headphones,Not urgent,Replacement of old product,₹1000-3000,Sony / JBL/ Boat,3,Rarely,Manufacturer website (Apple/HP etc.),2-4,Rarely,Yes
+17-18,Female,1st year,<1000,No,3-4 years,Laptop,Ugrent,Academic use,₹3000-7000,HP / Dell / Lenovo,3,Rarely,Amazon,4-6,Always,No
+19-20,Female,3rd year,<1000,Yes,2-3 years,Not planning to buy anything,No need,Replacement of old product,<₹1000,Samsung / Xiaomi / Realme,5,Rarely,physical,4-6,Always,No
+19-20,Female,3rd year,1000-3000,Yes,2-3 years,"Online Course (e.g., Coursera, Udemy)",Ugrent,Academic use,₹1000-3000,Udemy / Coursera / Skillshare (for online course),4,Sometimes,"Amazon, Flipkart, Croma, Manufacturer website (Apple/HP etc.)",4-6,Always,Yes
+21-22,Female,3rd year,>8000,Yes,<1 year,Laptop,Extremely urgent,Academic use,>₹30000,No preference,5,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Always,Yes
+25 or above,Female,Postgraduate,<1000,Yes,>4 years,Smartphone,Not urgent,Replacement of old product,₹15000-30000,Samsung / Xiaomi / Realme,5,Rarely,Amazon,2-4,Always,No
+19-20,Female,3rd year,5000-8000,Yes,2-3 years,Laptop,Ugrent,Academic use,>₹30000,Apple,5,Very frequently,Amazon,4-6,Always,Yes
+19-20,Male,2nd year,>8000,Yes,1-2 years,Headphones,Extremely urgent,Academic use,₹1000-3000,Sony / JBL/ Boat,5,Sometimes,"Amazon, Flipkart",2-4,Sometimes,Yes
+19-20,Male,3rd year,3000-5000,Yes,1-2 years,Not planning to buy anything,No need,Gaming,₹3000-7000,No preference,4,Rarely,Manufacturer website (Apple/HP etc.),>6,Always,No
+21-22,Female,4th year,3000-5000,Yes,1-2 years,Smartphone,Not urgent,Replacement of old product,>₹30000,Apple,5,Sometimes,"Croma, Manufacturer website (Apple/HP etc.)",2-4,Always,Yes
+21-22,Female,2nd year,<1000,Yes,1-2 years,"Online Course (e.g., Coursera, Udemy)",Ugrent,Skill development,₹1000-3000,Udemy / Coursera / Skillshare (for online course),4,Very frequently,"Amazon, Manufacturer website (Apple/HP etc.)",2-4,Always,No
+21-22,Female,3rd year,5000-8000,Yes,2-3 years,Keyboard,Not urgent,Replacement of old product,₹7000-15000,Sony / JBL/ Boat,5,Sometimes,"Amazon, Flipkart",2-4,Sometimes,Yes
+17-18,Female,1st year,1000-3000,Yes,<1 year,Laptop,Not urgent,Academic use,<₹1000,HP / Dell / Lenovo,5,Rarely,Amazon,<2,Sometimes,Yes
+19-20,Male,3rd year,>8000,Yes,<1 year,Keyboard,Not urgent,Personal entertainment,₹3000-7000,No preference,4,Very frequently,"Amazon, Manufacturer website (Apple/HP etc.)",4-6,Always,Yes
+19-20,Male,3rd year,5000-8000,Yes,1-2 years,"Online Course (e.g., Coursera, Udemy)",Not urgent,Skill development,₹1000-3000,Udemy / Coursera / Skillshare (for online course),4,Sometimes,"Amazon, Manufacturer website (Apple/HP etc.)",2-4,Always,Yes
+19-20,Male,3rd year,5000-8000,Yes,2-3 years,Smartphone,No need,Replacement of old product,₹15000-30000,Samsung / Xiaomi / Realme,2,Sometimes,Flipkart,2-4,Always,Yes
+21-22,Male,3rd year,<1000,Yes,2-3 years,Not planning to buy anything,No need,Personal entertainment,<₹1000,No preference,5,Rarely,"Croma, Manufacturer website (Apple/HP etc.)",2-4,Always,No
+19-20,Male,3rd year,3000-5000,Yes,2-3 years,Not planning to buy anything,Not urgent,Replacement of old product,₹7000-15000,No preference,3,Sometimes,Croma,4-6,Sometimes,Yes
+19-20,Female,3rd year,<1000,Yes,3-4 years,"Online Course (e.g., Coursera, Udemy)",Not urgent,Academic use,<₹1000,Udemy / Coursera / Skillshare (for online course),4,Very frequently,"Amazon, Flipkart",4-6,Always,Yes
+19-20,Male,3rd year,1000-3000,Yes,2-3 years,"Online Course (e.g., Coursera, Udemy)",Not urgent,Academic use,₹1000-3000,Udemy / Coursera / Skillshare (for online course),4,Sometimes,"Amazon, Flipkart",2-4,Sometimes,Yes
+21-22,Female,3rd year,5000-8000,Yes,2-3 years,"Online Course (e.g., Coursera, Udemy)",Not urgent,Academic use,<₹1000,Udemy / Coursera / Skillshare (for online course),2,Sometimes,Amazon,2-4,Always,Yes
+21-22,Male,3rd year,1000-3000,Yes,2-3 years,"Online Course (e.g., Coursera, Udemy)",Ugrent,Skill development,₹1000-3000,Udemy / Coursera / Skillshare (for online course),5,Rarely,Amazon,4-6,Always,Yes
+19-20,Male,3rd year,5000-8000,Yes,2-3 years,Headphones,Not urgent,Academic use,₹1000-3000,Sony / JBL/ Boat,4,Sometimes,Flipkart,2-4,Always,Yes
+17-18,Female,3rd year,3000-5000,Yes,1-2 years,Online Course,Urgent,Academic use,₹3000–7000,Apple,2,Sometimes,Flipkart,4-6,Always,Yes
+21-22,Female,3rd year,3000-5000,Yes,2-3 years,Online Course,Extremely urgent,Academic use,₹7000–15000,HP / Dell / Lenovo,5,Rarely,Flipkart,4-6,Always,Yes
+21-22,Male,2nd year,5000-8000,No,3-4 years,Headphones,Not urgent,Gaming,₹7000–15000,No preference,3,Sometimes,Amazon,4-6,Sometimes,Yes
+21-22,Male,2nd year,>8000,Yes,3-4 years,Online Course,Urgent,Skill development,₹7000–15000,Samsung / Xiaomi,4,Very frequently,Amazon,>6,Always,No
+19-20,Male,1st year,3000-5000,Yes,>4 years,Headphones,Extremely urgent,Skill development,>₹30000,HP / Dell / Lenovo,5,Very frequently,Amazon,2-4,Rarely,Yes
+25+,Female,1st year,5000-8000,Yes,>4 years,Online Course,Not urgent,Replacement,<₹1000,Samsung / Xiaomi,1,Sometimes,Amazon,4-6,Always,No
+21-22,Female,1st year,1000-3000,No,<1 year,Smartphone,Not urgent,Academic use,₹1000–3000,HP / Dell / Lenovo,2,Very frequently,Manufacturer website (Apple/HP etc.),>6,Always,Yes
+19-20,Male,3rd year,>8000,Yes,>4 years,Mouse,Urgent,Gaming,<₹1000,Apple,5,Sometimes,Flipkart,4-6,Sometimes,Yes
+25+,Male,3rd year,5000-8000,Yes,2-3 years,Mouse,Urgent,Replacement,₹3000–7000,HP / Dell / Lenovo,2,Sometimes,Amazon,<2,Sometimes,Yes
+19-20,Female,1st year,5000-8000,Yes,1-2 years,Laptop,Urgent,Replacement,₹3000–7000,Samsung / Xiaomi,2,Sometimes,Amazon,4-6,Sometimes,No
+23-24,Male,2nd year,<1000,No,1-2 years,Laptop,Extremely urgent,Academic use,>₹30000,No preference,3,Sometimes,Flipkart,4-6,Always,No
+19-20,Female,4th year,5000-8000,Yes,<1 year,Online Course,Extremely urgent,Replacement,>₹30000,HP / Dell / Lenovo,5,Rarely,Manufacturer website (Apple/HP etc.),2-4,Always,Yes
+25+,Male,4th year,3000-5000,Yes,3-4 years,Smartphone,Urgent,Skill development,>₹30000,HP / Dell / Lenovo,5,Sometimes,Amazon,>6,Rarely,Yes
+21-22,Male,3rd year,<1000,Yes,2-3 years,Smartphone,Urgent,Skill development,₹7000–15000,HP / Dell / Lenovo,5,Rarely,Flipkart,>6,Rarely,No
+23-24,Female,3rd year,3000-5000,Yes,>4 years,Mouse,Urgent,Academic use,₹7000–15000,HP / Dell / Lenovo,5,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Always,Yes
+21-22,Male,3rd year,>8000,Yes,>4 years,Mouse,Not urgent,Academic use,<₹1000,HP / Dell / Lenovo,2,Sometimes,Flipkart,4-6,Sometimes,No
+21-22,Female,3rd year,3000-5000,Yes,<1 year,Headphones,Not urgent,Skill development,₹1000–3000,Apple,3,Rarely,Amazon,>6,Sometimes,Yes
+17-18,Female,3rd year,<1000,Yes,3-4 years,Online Course,Not urgent,Replacement,₹7000–15000,No preference,1,Very frequently,Amazon,4-6,Always,No
+25+,Male,3rd year,5000-8000,Yes,1-2 years,Mouse,Urgent,Skill development,₹7000–15000,No preference,5,Sometimes,Flipkart,2-4,Rarely,No
+23-24,Female,1st year,<1000,Yes,<1 year,Online Course,Urgent,Academic use,₹1000–3000,HP / Dell / Lenovo,4,Very frequently,Amazon,2-4,Sometimes,Yes
+17-18,Male,4th year,3000-5000,Yes,3-4 years,Mouse,Extremely urgent,Academic use,>₹30000,Samsung / Xiaomi,2,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Rarely,Yes
+25+,Male,3rd year,<1000,Yes,<1 year,Smartphone,Urgent,Skill development,₹3000–7000,HP / Dell / Lenovo,1,Rarely,Amazon,4-6,Always,Yes
+21-22,Male,3rd year,>8000,Yes,2-3 years,Laptop,Extremely urgent,Replacement,₹1000–3000,Apple,2,Very frequently,Manufacturer website (Apple/HP etc.),<2,Rarely,No
+25+,Male,3rd year,>8000,Yes,3-4 years,Headphones,Not urgent,Skill development,₹3000–7000,Apple,5,Very frequently,Flipkart,<2,Always,Yes
+17-18,Male,4th year,<1000,Yes,1-2 years,Online Course,Urgent,Skill development,₹7000–15000,HP / Dell / Lenovo,3,Sometimes,Flipkart,<2,Always,Yes
+21-22,Female,2nd year,5000-8000,Yes,3-4 years,Mouse,Urgent,Replacement,₹3000–7000,No preference,3,Very frequently,Manufacturer website (Apple/HP etc.),<2,Rarely,Yes
+21-22,Female,2nd year,<1000,Yes,3-4 years,Laptop,Urgent,Gaming,<₹1000,Samsung / Xiaomi,4,Very frequently,Flipkart,>6,Rarely,Yes
+19-20,Female,3rd year,<1000,Yes,>4 years,Smartphone,Urgent,Replacement,>₹30000,No preference,3,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Rarely,Yes
+21-22,Female,1st year,5000-8000,Yes,<1 year,Headphones,Extremely urgent,Academic use,₹3000–7000,Samsung / Xiaomi,1,Sometimes,Manufacturer website (Apple/HP etc.),<2,Sometimes,Yes
+19-20,Male,1st year,5000-8000,Yes,<1 year,Smartphone,Not urgent,Academic use,<₹1000,HP / Dell / Lenovo,3,Rarely,Amazon,>6,Sometimes,Yes
+25+,Female,1st year,5000-8000,Yes,3-4 years,Online Course,Urgent,Academic use,<₹1000,No preference,1,Sometimes,Amazon,2-4,Sometimes,No
+19-20,Female,2nd year,3000-5000,Yes,>4 years,Smartphone,Urgent,Skill development,₹1000–3000,No preference,5,Sometimes,Flipkart,4-6,Always,No
+17-18,Female,4th year,<1000,Yes,>4 years,Headphones,Not urgent,Replacement,₹3000–7000,No preference,4,Sometimes,Amazon,4-6,Always,No
+23-24,Female,2nd year,1000-3000,Yes,>4 years,Mouse,Extremely urgent,Skill development,₹3000–7000,HP / Dell / Lenovo,2,Sometimes,Amazon,4-6,Rarely,No
+21-22,Male,2nd year,<1000,Yes,1-2 years,Online Course,Not urgent,Skill development,>₹30000,Apple,3,Rarely,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+25+,Male,1st year,>8000,Yes,3-4 years,Mouse,Extremely urgent,Replacement,₹7000–15000,Apple,1,Sometimes,Flipkart,>6,Always,Yes
+21-22,Female,1st year,3000-5000,Yes,1-2 years,Online Course,Not urgent,Academic use,₹7000–15000,Apple,3,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Rarely,No
+25+,Male,2nd year,5000-8000,Yes,2-3 years,Online Course,Urgent,Skill development,₹7000–15000,HP / Dell / Lenovo,5,Sometimes,Flipkart,4-6,Sometimes,No
+21-22,Male,2nd year,<1000,Yes,1-2 years,Mouse,Urgent,Academic use,₹1000–3000,Samsung / Xiaomi,4,Very frequently,Amazon,<2,Sometimes,No
+25+,Male,3rd year,3000-5000,Yes,3-4 years,Mouse,Extremely urgent,Academic use,₹3000–7000,HP / Dell / Lenovo,5,Rarely,Flipkart,>6,Sometimes,Yes
+23-24,Female,1st year,5000-8000,Yes,<1 year,Laptop,Urgent,Gaming,₹3000–7000,HP / Dell / Lenovo,5,Very frequently,Flipkart,<2,Always,Yes
+23-24,Female,3rd year,5000-8000,Yes,2-3 years,Headphones,Not urgent,Replacement,>₹30000,HP / Dell / Lenovo,1,Very frequently,Amazon,<2,Always,Yes
+19-20,Female,3rd year,<1000,Yes,3-4 years,Laptop,Extremely urgent,Academic use,₹7000–15000,Samsung / Xiaomi,3,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Always,Yes
+21-22,Male,2nd year,<1000,Yes,2-3 years,Online Course,Urgent,Skill development,₹3000–7000,Samsung / Xiaomi,5,Very frequently,Amazon,>6,Sometimes,No
+19-20,Female,3rd year,>8000,Yes,<1 year,Laptop,Urgent,Gaming,₹7000–15000,HP / Dell / Lenovo,2,Rarely,Amazon,2-4,Always,Yes
+17-18,Male,3rd year,3000-5000,Yes,1-2 years,Mouse,Extremely urgent,Gaming,₹1000–3000,Apple,1,Rarely,Flipkart,>6,Sometimes,Yes
+25+,Male,2nd year,5000-8000,Yes,<1 year,Headphones,Not urgent,Gaming,₹1000–3000,Apple,4,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Sometimes,Yes
+19-20,Male,2nd year,<1000,Yes,>4 years,Laptop,Not urgent,Academic use,₹3000–7000,Samsung / Xiaomi,5,Very frequently,Flipkart,<2,Sometimes,No
+19-20,Male,4th year,>8000,Yes,>4 years,Laptop,Not urgent,Gaming,>₹30000,Apple,5,Rarely,Amazon,4-6,Always,Yes
+25+,Female,2nd year,3000-5000,Yes,3-4 years,Headphones,Urgent,Gaming,₹7000–15000,Apple,5,Sometimes,Flipkart,2-4,Always,No
+23-24,Female,1st year,>8000,Yes,2-3 years,Laptop,Not urgent,Academic use,>₹30000,Apple,5,Sometimes,Flipkart,4-6,Rarely,Yes
+21-22,Female,3rd year,3000-5000,Yes,>4 years,Online Course,Not urgent,Gaming,₹3000–7000,No preference,3,Sometimes,Manufacturer website (Apple/HP etc.),>6,Always,Yes
+23-24,Male,4th year,>8000,Yes,2-3 years,Headphones,Not urgent,Skill development,₹7000–15000,Samsung / Xiaomi,2,Rarely,Manufacturer website (Apple/HP etc.),>6,Always,Yes
+25+,Male,2nd year,1000-3000,Yes,1-2 years,Headphones,Urgent,Academic use,>₹30000,No preference,1,Rarely,Amazon,2-4,Rarely,No
+19-20,Female,1st year,1000-3000,Yes,>4 years,Smartphone,Extremely urgent,Gaming,<₹1000,No preference,1,Sometimes,Amazon,2-4,Rarely,No
+17-18,Female,2nd year,3000-5000,No,1-2 years,Laptop,Urgent,Gaming,>₹30000,No preference,3,Rarely,Amazon,2-4,Always,No
+23-24,Male,3rd year,<1000,No,>4 years,Online Course,Extremely urgent,Gaming,₹3000–7000,Apple,4,Sometimes,Manufacturer website (Apple/HP etc.),<2,Always,Yes
+25+,Female,1st year,5000-8000,Yes,1-2 years,Headphones,Not urgent,Skill development,<₹1000,No preference,3,Rarely,Manufacturer website (Apple/HP etc.),<2,Always,Yes
+19-20,Male,2nd year,1000-3000,Yes,3-4 years,Mouse,Not urgent,Replacement,₹1000–3000,Apple,4,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Sometimes,Yes
+25+,Female,1st year,5000-8000,Yes,>4 years,Laptop,Urgent,Gaming,₹7000–15000,Samsung / Xiaomi,4,Sometimes,Flipkart,4-6,Sometimes,Yes
+21-22,Male,4th year,1000-3000,Yes,>4 years,Mouse,Extremely urgent,Skill development,>₹30000,No preference,2,Rarely,Flipkart,2-4,Always,No
+19-20,Female,1st year,<1000,Yes,2-3 years,Smartphone,Not urgent,Replacement,₹3000–7000,HP / Dell / Lenovo,4,Rarely,Amazon,>6,Rarely,No
+17-18,Female,4th year,5000-8000,Yes,3-4 years,Headphones,Not urgent,Academic use,<₹1000,No preference,2,Sometimes,Flipkart,>6,Sometimes,No
+19-20,Female,1st year,5000-8000,Yes,2-3 years,Mouse,Urgent,Gaming,₹1000–3000,HP / Dell / Lenovo,1,Sometimes,Amazon,4-6,Always,No
+21-22,Female,3rd year,1000-3000,Yes,<1 year,Headphones,Urgent,Academic use,₹1000–3000,HP / Dell / Lenovo,1,Sometimes,Flipkart,<2,Always,Yes
+23-24,Female,1st year,5000-8000,No,<1 year,Mouse,Extremely urgent,Replacement,₹1000–3000,No preference,1,Rarely,Flipkart,2-4,Sometimes,Yes
+25+,Female,1st year,3000-5000,Yes,1-2 years,Mouse,Not urgent,Academic use,₹7000–15000,No preference,3,Rarely,Flipkart,4-6,Always,Yes
+23-24,Female,1st year,>8000,Yes,2-3 years,Smartphone,Not urgent,Academic use,₹3000–7000,Samsung / Xiaomi,1,Rarely,Amazon,2-4,Rarely,Yes
+17-18,Female,1st year,1000-3000,Yes,3-4 years,Smartphone,Not urgent,Academic use,₹7000–15000,Samsung / Xiaomi,1,Very frequently,Flipkart,>6,Sometimes,Yes
+17-18,Male,4th year,3000-5000,No,2-3 years,Mouse,Not urgent,Gaming,>₹30000,Apple,4,Rarely,Amazon,>6,Always,No
+23-24,Male,3rd year,<1000,Yes,3-4 years,Laptop,Urgent,Gaming,₹7000–15000,No preference,2,Sometimes,Amazon,2-4,Always,No
+19-20,Male,2nd year,1000-3000,Yes,>4 years,Smartphone,Extremely urgent,Replacement,>₹30000,No preference,5,Rarely,Flipkart,>6,Rarely,No
+21-22,Female,2nd year,5000-8000,Yes,<1 year,Online Course,Not urgent,Skill development,>₹30000,HP / Dell / Lenovo,5,Rarely,Manufacturer website (Apple/HP etc.),<2,Rarely,Yes
+25+,Male,3rd year,1000-3000,Yes,<1 year,Smartphone,Extremely urgent,Skill development,₹3000–7000,HP / Dell / Lenovo,2,Rarely,Amazon,2-4,Rarely,Yes
+17-18,Male,1st year,5000-8000,No,<1 year,Online Course,Not urgent,Replacement,₹3000–7000,HP / Dell / Lenovo,4,Rarely,Manufacturer website (Apple/HP etc.),4-6,Always,Yes
+23-24,Male,3rd year,1000-3000,Yes,3-4 years,Laptop,Not urgent,Replacement,<₹1000,No preference,2,Sometimes,Flipkart,2-4,Sometimes,Yes
+19-20,Female,3rd year,3000-5000,No,2-3 years,Laptop,Urgent,Academic use,₹1000–3000,Apple,4,Rarely,Amazon,2-4,Rarely,No
+25+,Female,3rd year,5000-8000,No,3-4 years,Smartphone,Not urgent,Gaming,<₹1000,HP / Dell / Lenovo,4,Rarely,Manufacturer website (Apple/HP etc.),4-6,Sometimes,Yes
+25+,Female,1st year,1000-3000,Yes,>4 years,Online Course,Not urgent,Academic use,<₹1000,Samsung / Xiaomi,2,Sometimes,Flipkart,2-4,Rarely,Yes
+25+,Female,2nd year,5000-8000,Yes,<1 year,Smartphone,Extremely urgent,Gaming,₹3000–7000,Apple,4,Rarely,Amazon,2-4,Rarely,Yes
+25+,Female,2nd year,1000-3000,Yes,2-3 years,Headphones,Not urgent,Replacement,<₹1000,Apple,2,Rarely,Flipkart,2-4,Rarely,No
+21-22,Male,4th year,>8000,Yes,>4 years,Smartphone,Not urgent,Replacement,>₹30000,Samsung / Xiaomi,1,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Always,No
+23-24,Male,3rd year,3000-5000,Yes,2-3 years,Laptop,Not urgent,Replacement,₹1000–3000,No preference,3,Rarely,Amazon,<2,Always,No
+17-18,Male,1st year,<1000,Yes,1-2 years,Mouse,Not urgent,Academic use,₹7000–15000,HP / Dell / Lenovo,4,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Always,No
+19-20,Male,1st year,3000-5000,Yes,<1 year,Smartphone,Urgent,Academic use,₹1000–3000,No preference,1,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Rarely,No
+25+,Male,1st year,3000-5000,Yes,<1 year,Smartphone,Extremely urgent,Replacement,₹3000–7000,No preference,1,Very frequently,Manufacturer website (Apple/HP etc.),>6,Always,Yes
+21-22,Female,3rd year,1000-3000,Yes,2-3 years,Laptop,Not urgent,Replacement,₹3000–7000,Apple,5,Sometimes,Amazon,<2,Sometimes,Yes
+23-24,Male,1st year,3000-5000,Yes,3-4 years,Mouse,Extremely urgent,Replacement,>₹30000,No preference,1,Sometimes,Amazon,2-4,Sometimes,No
+17-18,Male,2nd year,3000-5000,Yes,1-2 years,Online Course,Urgent,Academic use,₹7000–15000,Samsung / Xiaomi,3,Very frequently,Manufacturer website (Apple/HP etc.),>6,Always,Yes
+23-24,Female,2nd year,1000-3000,Yes,2-3 years,Mouse,Extremely urgent,Replacement,₹1000–3000,Samsung / Xiaomi,4,Very frequently,Manufacturer website (Apple/HP etc.),2-4,Sometimes,Yes
+21-22,Male,1st year,<1000,Yes,3-4 years,Headphones,Not urgent,Replacement,<₹1000,No preference,3,Sometimes,Amazon,>6,Always,No
+25+,Male,4th year,5000-8000,Yes,<1 year,Laptop,Extremely urgent,Academic use,<₹1000,HP / Dell / Lenovo,4,Very frequently,Manufacturer website (Apple/HP etc.),2-4,Always,Yes
+25+,Female,1st year,3000-5000,Yes,2-3 years,Smartphone,Not urgent,Academic use,<₹1000,Samsung / Xiaomi,5,Rarely,Manufacturer website (Apple/HP etc.),>6,Always,Yes
+25+,Female,4th year,1000-3000,Yes,1-2 years,Laptop,Extremely urgent,Gaming,₹7000–15000,Apple,5,Rarely,Flipkart,2-4,Always,No
+19-20,Male,1st year,>8000,No,2-3 years,Laptop,Extremely urgent,Skill development,>₹30000,HP / Dell / Lenovo,3,Sometimes,Flipkart,>6,Rarely,No
+25+,Male,4th year,<1000,Yes,2-3 years,Smartphone,Urgent,Skill development,₹1000–3000,Apple,1,Rarely,Flipkart,2-4,Rarely,Yes
+19-20,Female,4th year,<1000,Yes,3-4 years,Laptop,Extremely urgent,Skill development,<₹1000,Samsung / Xiaomi,1,Sometimes,Flipkart,4-6,Always,Yes
+23-24,Male,4th year,5000-8000,Yes,3-4 years,Laptop,Urgent,Skill development,₹3000–7000,Samsung / Xiaomi,2,Very frequently,Flipkart,<2,Rarely,Yes
+17-18,Female,3rd year,>8000,Yes,2-3 years,Laptop,Not urgent,Skill development,>₹30000,Apple,4,Very frequently,Manufacturer website (Apple/HP etc.),>6,Sometimes,Yes
+25+,Male,4th year,<1000,Yes,>4 years,Headphones,Extremely urgent,Skill development,₹3000–7000,Samsung / Xiaomi,4,Sometimes,Flipkart,2-4,Sometimes,Yes
+19-20,Male,4th year,5000-8000,Yes,>4 years,Laptop,Extremely urgent,Academic use,₹3000–7000,Samsung / Xiaomi,4,Very frequently,Flipkart,>6,Rarely,No
+23-24,Male,1st year,5000-8000,Yes,1-2 years,Mouse,Not urgent,Skill development,<₹1000,HP / Dell / Lenovo,2,Very frequently,Flipkart,>6,Always,No
+17-18,Female,3rd year,>8000,Yes,1-2 years,Mouse,Not urgent,Replacement,₹1000–3000,Apple,1,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+25+,Female,1st year,<1000,Yes,2-3 years,Mouse,Extremely urgent,Replacement,<₹1000,Samsung / Xiaomi,4,Very frequently,Amazon,>6,Rarely,Yes
+19-20,Male,3rd year,5000-8000,Yes,3-4 years,Laptop,Not urgent,Replacement,>₹30000,Samsung / Xiaomi,3,Very frequently,Amazon,4-6,Sometimes,Yes
+21-22,Male,2nd year,>8000,Yes,<1 year,Mouse,Not urgent,Gaming,>₹30000,HP / Dell / Lenovo,1,Rarely,Flipkart,>6,Always,Yes
+21-22,Female,1st year,<1000,Yes,3-4 years,Smartphone,Not urgent,Academic use,<₹1000,HP / Dell / Lenovo,1,Rarely,Flipkart,4-6,Always,Yes
+23-24,Female,4th year,>8000,Yes,2-3 years,Laptop,Urgent,Gaming,>₹30000,Samsung / Xiaomi,5,Sometimes,Manufacturer website (Apple/HP etc.),<2,Rarely,Yes
+21-22,Female,2nd year,3000-5000,Yes,3-4 years,Laptop,Not urgent,Academic use,>₹30000,Samsung / Xiaomi,5,Rarely,Amazon,<2,Rarely,Yes
+17-18,Male,4th year,3000-5000,Yes,3-4 years,Smartphone,Extremely urgent,Replacement,₹3000–7000,HP / Dell / Lenovo,5,Rarely,Amazon,2-4,Rarely,Yes
+21-22,Male,2nd year,5000-8000,Yes,1-2 years,Mouse,Not urgent,Gaming,₹7000–15000,HP / Dell / Lenovo,3,Rarely,Flipkart,<2,Sometimes,No
+19-20,Female,2nd year,1000-3000,Yes,<1 year,Laptop,Extremely urgent,Replacement,₹3000–7000,Samsung / Xiaomi,5,Sometimes,Amazon,2-4,Rarely,Yes
+17-18,Female,3rd year,1000-3000,Yes,<1 year,Online Course,Urgent,Replacement,<₹1000,Samsung / Xiaomi,2,Rarely,Flipkart,4-6,Rarely,No
+17-18,Male,4th year,>8000,Yes,<1 year,Mouse,Urgent,Skill development,₹7000–15000,HP / Dell / Lenovo,1,Rarely,Amazon,2-4,Sometimes,Yes
+17-18,Female,2nd year,1000-3000,Yes,3-4 years,Mouse,Not urgent,Replacement,₹3000–7000,Apple,2,Very frequently,Flipkart,2-4,Sometimes,No
+25+,Male,2nd year,<1000,Yes,2-3 years,Mouse,Urgent,Gaming,₹3000–7000,Apple,5,Sometimes,Flipkart,<2,Rarely,Yes
+23-24,Male,4th year,<1000,Yes,2-3 years,Online Course,Extremely urgent,Gaming,<₹1000,Samsung / Xiaomi,1,Sometimes,Flipkart,<2,Always,No
+17-18,Male,3rd year,3000-5000,Yes,2-3 years,Online Course,Extremely urgent,Academic use,₹1000–3000,Samsung / Xiaomi,1,Sometimes,Amazon,4-6,Always,Yes
+21-22,Female,2nd year,1000-3000,Yes,1-2 years,Laptop,Not urgent,Academic use,>₹30000,Apple,5,Sometimes,Manufacturer website (Apple/HP etc.),<2,Rarely,Yes
+23-24,Male,2nd year,>8000,Yes,1-2 years,Smartphone,Extremely urgent,Skill development,<₹1000,Samsung / Xiaomi,5,Very frequently,Flipkart,4-6,Always,Yes
+25+,Male,1st year,5000-8000,Yes,3-4 years,Mouse,Not urgent,Replacement,₹7000–15000,No preference,5,Very frequently,Flipkart,>6,Rarely,Yes
+25+,Male,2nd year,<1000,Yes,2-3 years,Headphones,Urgent,Skill development,₹1000–3000,HP / Dell / Lenovo,3,Sometimes,Manufacturer website (Apple/HP etc.),>6,Always,Yes
+25+,Female,3rd year,>8000,Yes,>4 years,Smartphone,Extremely urgent,Skill development,₹1000–3000,HP / Dell / Lenovo,1,Rarely,Flipkart,2-4,Rarely,No
+19-20,Male,3rd year,5000-8000,Yes,2-3 years,Laptop,Extremely urgent,Replacement,₹3000–7000,HP / Dell / Lenovo,1,Very frequently,Amazon,4-6,Always,Yes
+23-24,Male,1st year,3000-5000,Yes,2-3 years,Mouse,Not urgent,Gaming,>₹30000,HP / Dell / Lenovo,4,Sometimes,Flipkart,<2,Rarely,Yes
+23-24,Female,2nd year,1000-3000,Yes,3-4 years,Smartphone,Urgent,Gaming,₹7000–15000,Samsung / Xiaomi,1,Very frequently,Flipkart,>6,Sometimes,Yes
+25+,Female,1st year,3000-5000,Yes,1-2 years,Headphones,Not urgent,Skill development,₹3000–7000,HP / Dell / Lenovo,5,Rarely,Flipkart,2-4,Rarely,No
+23-24,Female,4th year,5000-8000,Yes,>4 years,Laptop,Urgent,Gaming,>₹30000,No preference,1,Very frequently,Flipkart,4-6,Always,Yes
+23-24,Male,2nd year,>8000,Yes,<1 year,Mouse,Urgent,Replacement,₹7000–15000,Samsung / Xiaomi,3,Rarely,Manufacturer website (Apple/HP etc.),>6,Rarely,No
+19-20,Male,3rd year,<1000,Yes,2-3 years,Laptop,Extremely urgent,Academic use,<₹1000,Apple,3,Very frequently,Manufacturer website (Apple/HP etc.),<2,Sometimes,Yes
+25+,Male,3rd year,>8000,Yes,>4 years,Smartphone,Urgent,Academic use,₹3000–7000,No preference,3,Very frequently,Flipkart,>6,Sometimes,Yes
+17-18,Male,4th year,3000-5000,Yes,<1 year,Smartphone,Extremely urgent,Gaming,<₹1000,HP / Dell / Lenovo,5,Very frequently,Manufacturer website (Apple/HP etc.),>6,Sometimes,Yes
+21-22,Male,4th year,3000-5000,Yes,<1 year,Smartphone,Urgent,Replacement,₹3000–7000,HP / Dell / Lenovo,4,Rarely,Amazon,4-6,Rarely,Yes
+25+,Male,3rd year,<1000,Yes,2-3 years,Mouse,Urgent,Academic use,₹7000–15000,Apple,3,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Always,No
+19-20,Female,2nd year,<1000,Yes,1-2 years,Mouse,Not urgent,Academic use,>₹30000,No preference,3,Very frequently,Manufacturer website (Apple/HP etc.),<2,Always,Yes
+23-24,Male,4th year,3000-5000,No,<1 year,Headphones,Extremely urgent,Academic use,₹7000–15000,Samsung / Xiaomi,2,Rarely,Amazon,<2,Always,No
+17-18,Female,1st year,>8000,Yes,2-3 years,Laptop,Extremely urgent,Skill development,<₹1000,Apple,1,Rarely,Manufacturer website (Apple/HP etc.),>6,Always,Yes
+19-20,Female,1st year,5000-8000,Yes,1-2 years,Mouse,Extremely urgent,Skill development,₹7000–15000,HP / Dell / Lenovo,5,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Sometimes,No
+25+,Male,1st year,1000-3000,Yes,<1 year,Online Course,Not urgent,Academic use,₹3000–7000,No preference,4,Very frequently,Manufacturer website (Apple/HP etc.),2-4,Always,No
+23-24,Female,3rd year,1000-3000,Yes,<1 year,Smartphone,Urgent,Gaming,₹7000–15000,Apple,4,Sometimes,Amazon,>6,Rarely,Yes
+17-18,Male,3rd year,1000-3000,Yes,3-4 years,Mouse,Not urgent,Skill development,₹1000–3000,Samsung / Xiaomi,4,Sometimes,Manufacturer website (Apple/HP etc.),>6,Always,No
+23-24,Male,1st year,1000-3000,Yes,<1 year,Smartphone,Not urgent,Skill development,₹3000–7000,No preference,1,Rarely,Amazon,<2,Always,Yes
+19-20,Female,1st year,5000-8000,Yes,1-2 years,Headphones,Extremely urgent,Gaming,>₹30000,Apple,4,Sometimes,Manufacturer website (Apple/HP etc.),>6,Rarely,No
+17-18,Male,2nd year,>8000,No,2-3 years,Smartphone,Extremely urgent,Gaming,<₹1000,Apple,5,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Sometimes,No
+21-22,Female,3rd year,3000-5000,Yes,2-3 years,Online Course,Not urgent,Academic use,>₹30000,Apple,1,Rarely,Flipkart,2-4,Rarely,No
+19-20,Male,4th year,3000-5000,Yes,>4 years,Online Course,Extremely urgent,Skill development,<₹1000,No preference,5,Rarely,Manufacturer website (Apple/HP etc.),<2,Sometimes,No
+21-22,Male,4th year,1000-3000,Yes,2-3 years,Smartphone,Urgent,Skill development,₹1000–3000,No preference,2,Very frequently,Flipkart,<2,Sometimes,No
+17-18,Female,4th year,5000-8000,Yes,3-4 years,Smartphone,Urgent,Gaming,₹3000–7000,No preference,5,Rarely,Flipkart,4-6,Sometimes,No
+21-22,Female,1st year,<1000,Yes,<1 year,Smartphone,Not urgent,Gaming,₹3000–7000,No preference,2,Very frequently,Flipkart,<2,Sometimes,No
+23-24,Male,2nd year,>8000,Yes,3-4 years,Mouse,Urgent,Gaming,₹1000–3000,HP / Dell / Lenovo,5,Very frequently,Amazon,<2,Rarely,Yes
+21-22,Female,4th year,3000-5000,No,>4 years,Headphones,Urgent,Replacement,>₹30000,HP / Dell / Lenovo,2,Very frequently,Manufacturer website (Apple/HP etc.),2-4,Sometimes,Yes
+21-22,Female,4th year,<1000,Yes,3-4 years,Online Course,Urgent,Gaming,>₹30000,Samsung / Xiaomi,4,Rarely,Manufacturer website (Apple/HP etc.),<2,Rarely,Yes
+23-24,Male,1st year,5000-8000,Yes,2-3 years,Headphones,Extremely urgent,Skill development,₹3000–7000,Apple,5,Rarely,Flipkart,2-4,Sometimes,No
+23-24,Female,2nd year,<1000,Yes,>4 years,Headphones,Extremely urgent,Academic use,₹1000–3000,No preference,2,Rarely,Flipkart,2-4,Rarely,Yes
+17-18,Male,3rd year,3000-5000,Yes,1-2 years,Laptop,Extremely urgent,Replacement,>₹30000,Apple,1,Rarely,Flipkart,<2,Sometimes,Yes
+19-20,Male,2nd year,<1000,Yes,2-3 years,Smartphone,Extremely urgent,Replacement,<₹1000,No preference,2,Rarely,Amazon,4-6,Rarely,No
+17-18,Male,3rd year,1000-3000,Yes,2-3 years,Online Course,Extremely urgent,Skill development,>₹30000,Samsung / Xiaomi,4,Very frequently,Manufacturer website (Apple/HP etc.),2-4,Sometimes,Yes
+17-18,Female,1st year,5000-8000,Yes,<1 year,Mouse,Extremely urgent,Gaming,<₹1000,Samsung / Xiaomi,1,Rarely,Flipkart,>6,Rarely,Yes
+25+,Female,3rd year,1000-3000,Yes,1-2 years,Smartphone,Not urgent,Academic use,>₹30000,HP / Dell / Lenovo,5,Rarely,Manufacturer website (Apple/HP etc.),2-4,Sometimes,Yes
+17-18,Female,1st year,<1000,Yes,3-4 years,Laptop,Extremely urgent,Skill development,<₹1000,Samsung / Xiaomi,4,Rarely,Manufacturer website (Apple/HP etc.),4-6,Sometimes,Yes
+23-24,Female,3rd year,5000-8000,Yes,>4 years,Online Course,Not urgent,Replacement,₹3000–7000,Apple,3,Very frequently,Amazon,<2,Always,Yes
+19-20,Male,3rd year,5000-8000,Yes,<1 year,Laptop,Extremely urgent,Gaming,₹3000–7000,Apple,2,Sometimes,Amazon,>6,Sometimes,No
+21-22,Female,3rd year,5000-8000,No,3-4 years,Headphones,Urgent,Skill development,<₹1000,HP / Dell / Lenovo,4,Very frequently,Flipkart,4-6,Always,Yes
+19-20,Male,3rd year,1000-3000,Yes,1-2 years,Smartphone,Urgent,Academic use,₹1000–3000,Apple,2,Rarely,Manufacturer website (Apple/HP etc.),4-6,Sometimes,Yes
+23-24,Male,2nd year,>8000,Yes,2-3 years,Mouse,Urgent,Replacement,₹7000–15000,HP / Dell / Lenovo,1,Very frequently,Amazon,2-4,Sometimes,Yes
+25+,Male,1st year,<1000,Yes,<1 year,Headphones,Extremely urgent,Academic use,>₹30000,Apple,4,Rarely,Amazon,<2,Always,No
+17-18,Female,1st year,1000-3000,Yes,>4 years,Smartphone,Not urgent,Skill development,₹7000–15000,Samsung / Xiaomi,2,Sometimes,Manufacturer website (Apple/HP etc.),>6,Sometimes,Yes
+25+,Male,4th year,5000-8000,Yes,3-4 years,Online Course,Urgent,Skill development,₹1000–3000,Apple,3,Sometimes,Manufacturer website (Apple/HP etc.),<2,Sometimes,Yes
+19-20,Male,4th year,1000-3000,Yes,>4 years,Headphones,Extremely urgent,Gaming,₹7000–15000,Samsung / Xiaomi,3,Very frequently,Amazon,2-4,Always,Yes
+19-20,Male,4th year,>8000,Yes,<1 year,Mouse,Urgent,Academic use,<₹1000,No preference,4,Sometimes,Amazon,2-4,Rarely,No
+25+,Male,3rd year,<1000,Yes,3-4 years,Laptop,Urgent,Skill development,₹7000–15000,Samsung / Xiaomi,1,Rarely,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+17-18,Male,1st year,<1000,Yes,>4 years,Headphones,Extremely urgent,Gaming,₹3000–7000,Samsung / Xiaomi,5,Very frequently,Flipkart,>6,Sometimes,No
+23-24,Female,1st year,1000-3000,Yes,>4 years,Online Course,Urgent,Gaming,₹1000–3000,Samsung / Xiaomi,3,Rarely,Manufacturer website (Apple/HP etc.),>6,Always,Yes
+23-24,Male,3rd year,>8000,No,2-3 years,Laptop,Urgent,Replacement,₹7000–15000,HP / Dell / Lenovo,1,Rarely,Manufacturer website (Apple/HP etc.),<2,Always,Yes
+25+,Female,2nd year,3000-5000,Yes,<1 year,Headphones,Not urgent,Skill development,<₹1000,No preference,2,Sometimes,Manufacturer website (Apple/HP etc.),>6,Sometimes,No
+19-20,Male,4th year,>8000,Yes,2-3 years,Mouse,Extremely urgent,Academic use,₹3000–7000,Apple,4,Rarely,Flipkart,4-6,Sometimes,No
+19-20,Male,4th year,5000-8000,Yes,>4 years,Mouse,Not urgent,Replacement,<₹1000,Samsung / Xiaomi,4,Very frequently,Flipkart,2-4,Sometimes,Yes
+21-22,Female,3rd year,1000-3000,Yes,2-3 years,Online Course,Extremely urgent,Replacement,₹7000–15000,Samsung / Xiaomi,5,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+17-18,Male,1st year,>8000,Yes,>4 years,Smartphone,Extremely urgent,Skill development,₹1000–3000,Samsung / Xiaomi,2,Sometimes,Flipkart,<2,Always,Yes
+25+,Male,2nd year,3000-5000,Yes,2-3 years,Smartphone,Urgent,Academic use,₹7000–15000,Samsung / Xiaomi,2,Sometimes,Amazon,<2,Rarely,No
+25+,Female,2nd year,3000-5000,Yes,2-3 years,Smartphone,Urgent,Replacement,<₹1000,Samsung / Xiaomi,4,Rarely,Flipkart,2-4,Sometimes,No
+21-22,Male,4th year,3000-5000,Yes,1-2 years,Mouse,Urgent,Replacement,₹7000–15000,Samsung / Xiaomi,4,Rarely,Amazon,>6,Sometimes,Yes
+19-20,Male,3rd year,5000-8000,Yes,<1 year,Mouse,Not urgent,Academic use,₹3000–7000,Apple,1,Very frequently,Amazon,<2,Rarely,Yes
+17-18,Female,3rd year,1000-3000,Yes,3-4 years,Headphones,Extremely urgent,Gaming,₹3000–7000,No preference,4,Rarely,Amazon,>6,Sometimes,Yes
+25+,Female,2nd year,>8000,No,1-2 years,Headphones,Urgent,Skill development,>₹30000,HP / Dell / Lenovo,4,Sometimes,Amazon,2-4,Rarely,No
+17-18,Female,1st year,1000-3000,Yes,>4 years,Online Course,Extremely urgent,Skill development,₹7000–15000,No preference,4,Rarely,Amazon,2-4,Rarely,Yes
+17-18,Female,3rd year,>8000,Yes,<1 year,Headphones,Extremely urgent,Skill development,₹1000–3000,Apple,5,Very frequently,Amazon,>6,Always,Yes
+21-22,Female,1st year,1000-3000,Yes,1-2 years,Mouse,Extremely urgent,Replacement,<₹1000,Samsung / Xiaomi,2,Rarely,Flipkart,4-6,Sometimes,No
+23-24,Female,2nd year,1000-3000,Yes,>4 years,Online Course,Not urgent,Skill development,>₹30000,Apple,5,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Rarely,Yes
+17-18,Male,4th year,<1000,Yes,2-3 years,Mouse,Urgent,Academic use,>₹30000,No preference,2,Sometimes,Flipkart,4-6,Sometimes,Yes
+17-18,Female,4th year,1000-3000,Yes,3-4 years,Smartphone,Urgent,Replacement,₹3000–7000,Apple,2,Sometimes,Amazon,>6,Always,No
+17-18,Male,4th year,5000-8000,Yes,3-4 years,Online Course,Not urgent,Gaming,₹3000–7000,Samsung / Xiaomi,5,Very frequently,Manufacturer website (Apple/HP etc.),<2,Sometimes,No
+25+,Female,3rd year,>8000,Yes,3-4 years,Smartphone,Urgent,Academic use,>₹30000,No preference,5,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Always,Yes
+23-24,Male,2nd year,1000-3000,Yes,<1 year,Online Course,Urgent,Skill development,₹7000–15000,Apple,1,Sometimes,Flipkart,>6,Rarely,Yes
+21-22,Female,2nd year,<1000,Yes,1-2 years,Laptop,Urgent,Academic use,₹3000–7000,No preference,4,Very frequently,Amazon,<2,Rarely,Yes
+19-20,Male,3rd year,1000-3000,Yes,3-4 years,Online Course,Extremely urgent,Academic use,>₹30000,No preference,1,Very frequently,Flipkart,<2,Rarely,No
+21-22,Male,1st year,<1000,Yes,3-4 years,Laptop,Not urgent,Replacement,₹1000–3000,Samsung / Xiaomi,5,Rarely,Amazon,4-6,Sometimes,No
+23-24,Female,2nd year,<1000,Yes,1-2 years,Smartphone,Extremely urgent,Gaming,>₹30000,HP / Dell / Lenovo,4,Very frequently,Manufacturer website (Apple/HP etc.),>6,Rarely,Yes
+23-24,Female,1st year,<1000,Yes,>4 years,Headphones,Extremely urgent,Gaming,>₹30000,HP / Dell / Lenovo,3,Very frequently,Flipkart,<2,Always,No
+23-24,Male,3rd year,5000-8000,Yes,3-4 years,Online Course,Extremely urgent,Gaming,<₹1000,HP / Dell / Lenovo,3,Rarely,Amazon,2-4,Rarely,Yes
+21-22,Female,2nd year,<1000,No,<1 year,Smartphone,Extremely urgent,Gaming,₹1000–3000,Apple,5,Rarely,Manufacturer website (Apple/HP etc.),<2,Sometimes,Yes
+19-20,Male,2nd year,1000-3000,Yes,3-4 years,Smartphone,Not urgent,Academic use,₹7000–15000,Samsung / Xiaomi,4,Rarely,Flipkart,4-6,Sometimes,No
+21-22,Male,2nd year,>8000,Yes,3-4 years,Online Course,Not urgent,Gaming,₹7000–15000,HP / Dell / Lenovo,5,Sometimes,Amazon,2-4,Rarely,Yes
+17-18,Female,2nd year,1000-3000,Yes,<1 year,Mouse,Urgent,Replacement,₹1000–3000,Samsung / Xiaomi,2,Very frequently,Flipkart,2-4,Sometimes,No
+25+,Male,4th year,5000-8000,Yes,1-2 years,Online Course,Extremely urgent,Academic use,<₹1000,Samsung / Xiaomi,5,Rarely,Manufacturer website (Apple/HP etc.),>6,Rarely,Yes
+21-22,Female,1st year,<1000,Yes,2-3 years,Smartphone,Extremely urgent,Skill development,₹3000–7000,HP / Dell / Lenovo,4,Sometimes,Flipkart,4-6,Always,Yes
+23-24,Female,3rd year,3000-5000,Yes,3-4 years,Smartphone,Extremely urgent,Skill development,₹1000–3000,Samsung / Xiaomi,2,Rarely,Manufacturer website (Apple/HP etc.),4-6,Sometimes,Yes
+21-22,Male,1st year,3000-5000,No,3-4 years,Headphones,Urgent,Replacement,₹3000–7000,Apple,1,Rarely,Flipkart,>6,Rarely,Yes
+25+,Male,1st year,1000-3000,Yes,1-2 years,Smartphone,Not urgent,Gaming,>₹30000,HP / Dell / Lenovo,2,Sometimes,Flipkart,4-6,Rarely,Yes
+23-24,Female,4th year,>8000,Yes,2-3 years,Headphones,Extremely urgent,Skill development,₹1000–3000,No preference,3,Very frequently,Amazon,<2,Sometimes,Yes
+25+,Male,3rd year,3000-5000,Yes,2-3 years,Mouse,Extremely urgent,Skill development,₹3000–7000,Samsung / Xiaomi,4,Very frequently,Amazon,<2,Sometimes,No
+21-22,Female,4th year,3000-5000,Yes,>4 years,Online Course,Urgent,Replacement,₹3000–7000,Apple,4,Very frequently,Flipkart,2-4,Always,Yes
+21-22,Male,1st year,1000-3000,Yes,2-3 years,Smartphone,Not urgent,Skill development,>₹30000,HP / Dell / Lenovo,3,Very frequently,Flipkart,2-4,Rarely,No
+25+,Female,2nd year,5000-8000,Yes,1-2 years,Laptop,Urgent,Gaming,>₹30000,Samsung / Xiaomi,2,Very frequently,Amazon,4-6,Always,Yes
+19-20,Male,3rd year,1000-3000,Yes,1-2 years,Smartphone,Extremely urgent,Gaming,<₹1000,No preference,3,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Sometimes,No
+25+,Female,2nd year,5000-8000,Yes,>4 years,Laptop,Extremely urgent,Skill development,₹1000–3000,Samsung / Xiaomi,3,Rarely,Amazon,4-6,Rarely,Yes
+19-20,Female,2nd year,>8000,Yes,2-3 years,Mouse,Extremely urgent,Replacement,₹1000–3000,Apple,3,Very frequently,Flipkart,2-4,Always,Yes
+19-20,Female,1st year,>8000,Yes,>4 years,Mouse,Extremely urgent,Academic use,>₹30000,Samsung / Xiaomi,3,Rarely,Flipkart,>6,Rarely,No
+23-24,Male,3rd year,>8000,Yes,>4 years,Headphones,Not urgent,Academic use,<₹1000,Samsung / Xiaomi,2,Rarely,Flipkart,4-6,Always,No
+23-24,Female,2nd year,5000-8000,Yes,>4 years,Online Course,Not urgent,Skill development,₹7000–15000,No preference,4,Sometimes,Amazon,<2,Always,Yes
+25+,Female,2nd year,>8000,Yes,2-3 years,Smartphone,Extremely urgent,Academic use,₹1000–3000,Samsung / Xiaomi,4,Very frequently,Flipkart,>6,Sometimes,Yes
+19-20,Female,3rd year,1000-3000,Yes,3-4 years,Mouse,Extremely urgent,Skill development,₹1000–3000,No preference,5,Sometimes,Flipkart,<2,Rarely,No
+25+,Female,4th year,1000-3000,Yes,3-4 years,Smartphone,Urgent,Replacement,₹3000–7000,HP / Dell / Lenovo,2,Sometimes,Amazon,>6,Rarely,Yes
+17-18,Male,3rd year,3000-5000,No,<1 year,Headphones,Not urgent,Skill development,₹3000–7000,HP / Dell / Lenovo,4,Rarely,Flipkart,>6,Sometimes,No
+25+,Female,4th year,>8000,Yes,1-2 years,Smartphone,Urgent,Academic use,<₹1000,Apple,3,Rarely,Flipkart,4-6,Rarely,No
+17-18,Female,1st year,1000-3000,No,<1 year,Headphones,Not urgent,Skill development,<₹1000,HP / Dell / Lenovo,5,Rarely,Amazon,4-6,Always,No
+25+,Female,2nd year,1000-3000,Yes,>4 years,Mouse,Extremely urgent,Gaming,₹1000–3000,HP / Dell / Lenovo,4,Rarely,Manufacturer website (Apple/HP etc.),4-6,Always,Yes
+23-24,Female,1st year,>8000,Yes,>4 years,Mouse,Extremely urgent,Replacement,<₹1000,HP / Dell / Lenovo,3,Sometimes,Manufacturer website (Apple/HP etc.),<2,Rarely,No
+23-24,Female,3rd year,>8000,Yes,2-3 years,Online Course,Urgent,Academic use,<₹1000,HP / Dell / Lenovo,5,Sometimes,Flipkart,2-4,Sometimes,No
+21-22,Male,2nd year,<1000,Yes,<1 year,Laptop,Extremely urgent,Replacement,₹1000–3000,No preference,4,Very frequently,Amazon,4-6,Always,No
+17-18,Female,4th year,>8000,Yes,2-3 years,Mouse,Urgent,Skill development,₹7000–15000,HP / Dell / Lenovo,2,Rarely,Flipkart,>6,Rarely,Yes
+17-18,Female,1st year,1000-3000,Yes,>4 years,Mouse,Urgent,Skill development,₹1000–3000,HP / Dell / Lenovo,3,Sometimes,Manufacturer website (Apple/HP etc.),<2,Rarely,Yes
+21-22,Male,3rd year,<1000,Yes,1-2 years,Mouse,Urgent,Gaming,₹7000–15000,HP / Dell / Lenovo,2,Sometimes,Amazon,>6,Always,No
+21-22,Male,4th year,5000-8000,Yes,3-4 years,Online Course,Extremely urgent,Skill development,₹7000–15000,Samsung / Xiaomi,3,Sometimes,Flipkart,>6,Always,No
+19-20,Female,1st year,>8000,Yes,1-2 years,Mouse,Extremely urgent,Replacement,<₹1000,Samsung / Xiaomi,5,Rarely,Amazon,>6,Always,No
+17-18,Male,1st year,1000-3000,Yes,3-4 years,Headphones,Urgent,Replacement,<₹1000,Samsung / Xiaomi,4,Very frequently,Amazon,2-4,Rarely,Yes
+25+,Female,4th year,>8000,Yes,<1 year,Mouse,Not urgent,Skill development,₹7000–15000,No preference,5,Very frequently,Flipkart,>6,Rarely,Yes
+19-20,Male,2nd year,<1000,No,2-3 years,Online Course,Not urgent,Skill development,<₹1000,HP / Dell / Lenovo,5,Rarely,Flipkart,<2,Always,No
+19-20,Male,4th year,1000-3000,Yes,3-4 years,Mouse,Extremely urgent,Academic use,₹3000–7000,No preference,2,Very frequently,Flipkart,2-4,Rarely,Yes
+25+,Female,4th year,3000-5000,Yes,<1 year,Headphones,Urgent,Replacement,₹7000–15000,Apple,2,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Always,No
+17-18,Female,4th year,>8000,Yes,>4 years,Laptop,Extremely urgent,Replacement,₹3000–7000,Apple,2,Very frequently,Amazon,<2,Sometimes,Yes
+25+,Male,3rd year,5000-8000,Yes,2-3 years,Laptop,Extremely urgent,Academic use,₹7000–15000,Samsung / Xiaomi,2,Rarely,Amazon,2-4,Always,Yes
+21-22,Male,4th year,5000-8000,Yes,>4 years,Online Course,Extremely urgent,Skill development,₹1000–3000,Samsung / Xiaomi,3,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Sometimes,Yes
+21-22,Female,3rd year,3000-5000,Yes,<1 year,Online Course,Not urgent,Replacement,₹1000–3000,No preference,5,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Always,No
+17-18,Female,2nd year,<1000,Yes,>4 years,Laptop,Urgent,Skill development,₹1000–3000,No preference,2,Sometimes,Flipkart,<2,Rarely,Yes
+23-24,Male,4th year,1000-3000,Yes,2-3 years,Laptop,Urgent,Skill development,<₹1000,No preference,4,Rarely,Flipkart,<2,Always,Yes
+19-20,Female,2nd year,>8000,Yes,2-3 years,Mouse,Urgent,Replacement,<₹1000,Apple,5,Very frequently,Amazon,<2,Always,No
+19-20,Male,1st year,<1000,Yes,3-4 years,Smartphone,Not urgent,Replacement,₹7000–15000,Samsung / Xiaomi,3,Rarely,Amazon,<2,Rarely,Yes
+21-22,Male,4th year,5000-8000,Yes,2-3 years,Mouse,Not urgent,Academic use,₹3000–7000,HP / Dell / Lenovo,2,Rarely,Amazon,2-4,Sometimes,No
+25+,Female,2nd year,1000-3000,Yes,3-4 years,Laptop,Urgent,Skill development,₹7000–15000,Apple,3,Sometimes,Flipkart,4-6,Rarely,Yes
+17-18,Female,4th year,3000-5000,Yes,<1 year,Mouse,Not urgent,Academic use,₹3000–7000,Samsung / Xiaomi,5,Sometimes,Manufacturer website (Apple/HP etc.),>6,Rarely,No
+19-20,Female,2nd year,>8000,No,>4 years,Headphones,Not urgent,Gaming,₹1000–3000,Samsung / Xiaomi,2,Very frequently,Flipkart,4-6,Rarely,No
+19-20,Female,2nd year,>8000,Yes,>4 years,Smartphone,Not urgent,Gaming,>₹30000,Samsung / Xiaomi,1,Very frequently,Flipkart,>6,Rarely,No
+17-18,Female,2nd year,1000-3000,Yes,3-4 years,Laptop,Urgent,Academic use,>₹30000,No preference,1,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Always,Yes
+25+,Female,2nd year,>8000,Yes,3-4 years,Smartphone,Urgent,Replacement,>₹30000,Samsung / Xiaomi,3,Sometimes,Flipkart,>6,Sometimes,No
+21-22,Male,3rd year,5000-8000,Yes,>4 years,Smartphone,Extremely urgent,Gaming,₹7000–15000,Apple,3,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Rarely,No
+23-24,Female,3rd year,1000-3000,Yes,>4 years,Laptop,Urgent,Gaming,<₹1000,Apple,2,Sometimes,Flipkart,<2,Rarely,No
+19-20,Female,4th year,<1000,Yes,2-3 years,Mouse,Extremely urgent,Gaming,₹7000–15000,Samsung / Xiaomi,2,Very frequently,Manufacturer website (Apple/HP etc.),<2,Rarely,Yes
+21-22,Female,1st year,5000-8000,Yes,1-2 years,Laptop,Urgent,Replacement,>₹30000,Samsung / Xiaomi,5,Rarely,Amazon,<2,Always,Yes
+23-24,Female,2nd year,5000-8000,Yes,>4 years,Smartphone,Urgent,Academic use,₹3000–7000,HP / Dell / Lenovo,3,Sometimes,Manufacturer website (Apple/HP etc.),<2,Always,Yes
+23-24,Male,4th year,3000-5000,Yes,3-4 years,Online Course,Urgent,Gaming,₹3000–7000,Apple,4,Sometimes,Amazon,>6,Sometimes,Yes
+17-18,Female,1st year,1000-3000,Yes,3-4 years,Laptop,Urgent,Replacement,₹7000–15000,Samsung / Xiaomi,2,Very frequently,Manufacturer website (Apple/HP etc.),<2,Sometimes,No
+23-24,Male,4th year,5000-8000,Yes,>4 years,Laptop,Urgent,Academic use,>₹30000,No preference,4,Rarely,Manufacturer website (Apple/HP etc.),4-6,Sometimes,Yes
+17-18,Female,3rd year,1000-3000,Yes,<1 year,Laptop,Urgent,Replacement,<₹1000,Samsung / Xiaomi,2,Rarely,Flipkart,2-4,Rarely,Yes
+17-18,Female,2nd year,3000-5000,Yes,>4 years,Smartphone,Not urgent,Skill development,₹7000–15000,No preference,5,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Sometimes,No
+19-20,Female,3rd year,5000-8000,Yes,>4 years,Online Course,Extremely urgent,Gaming,₹7000–15000,No preference,1,Very frequently,Manufacturer website (Apple/HP etc.),<2,Rarely,Yes
+17-18,Female,1st year,<1000,Yes,>4 years,Headphones,Extremely urgent,Academic use,<₹1000,Samsung / Xiaomi,3,Rarely,Manufacturer website (Apple/HP etc.),2-4,Sometimes,No
+17-18,Male,1st year,3000-5000,Yes,2-3 years,Smartphone,Not urgent,Replacement,<₹1000,No preference,2,Very frequently,Manufacturer website (Apple/HP etc.),<2,Sometimes,Yes
+17-18,Male,2nd year,>8000,Yes,2-3 years,Smartphone,Extremely urgent,Replacement,<₹1000,Samsung / Xiaomi,5,Rarely,Manufacturer website (Apple/HP etc.),2-4,Rarely,Yes
+23-24,Male,4th year,>8000,Yes,1-2 years,Headphones,Extremely urgent,Skill development,₹3000–7000,Samsung / Xiaomi,1,Rarely,Amazon,2-4,Always,Yes
+21-22,Male,1st year,5000-8000,No,1-2 years,Laptop,Extremely urgent,Academic use,₹3000–7000,HP / Dell / Lenovo,4,Sometimes,Flipkart,<2,Rarely,Yes
+19-20,Female,4th year,3000-5000,Yes,>4 years,Smartphone,Not urgent,Gaming,<₹1000,Samsung / Xiaomi,1,Very frequently,Flipkart,>6,Rarely,No
+23-24,Female,3rd year,>8000,No,1-2 years,Smartphone,Extremely urgent,Gaming,>₹30000,Apple,3,Sometimes,Flipkart,2-4,Sometimes,No
+19-20,Female,1st year,<1000,Yes,2-3 years,Online Course,Not urgent,Gaming,₹3000–7000,Samsung / Xiaomi,5,Very frequently,Amazon,2-4,Sometimes,No
+21-22,Female,4th year,>8000,Yes,1-2 years,Online Course,Extremely urgent,Skill development,₹7000–15000,No preference,1,Rarely,Flipkart,2-4,Always,No
+19-20,Male,4th year,1000-3000,Yes,<1 year,Headphones,Not urgent,Replacement,>₹30000,No preference,1,Rarely,Amazon,2-4,Always,No
+25+,Male,2nd year,5000-8000,Yes,2-3 years,Headphones,Urgent,Replacement,₹3000–7000,Apple,2,Very frequently,Amazon,4-6,Always,No
+23-24,Male,2nd year,5000-8000,Yes,>4 years,Smartphone,Not urgent,Academic use,>₹30000,HP / Dell / Lenovo,5,Sometimes,Amazon,<2,Sometimes,No
+19-20,Female,4th year,5000-8000,No,3-4 years,Smartphone,Urgent,Gaming,<₹1000,Apple,4,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Always,Yes
+23-24,Male,4th year,5000-8000,Yes,2-3 years,Online Course,Not urgent,Replacement,₹1000–3000,Apple,1,Rarely,Amazon,>6,Rarely,Yes
+19-20,Male,1st year,5000-8000,Yes,1-2 years,Online Course,Urgent,Academic use,₹7000–15000,HP / Dell / Lenovo,4,Very frequently,Amazon,>6,Always,No
+19-20,Male,3rd year,<1000,Yes,>4 years,Headphones,Extremely urgent,Skill development,<₹1000,Apple,1,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Sometimes,No
+17-18,Male,2nd year,5000-8000,Yes,<1 year,Laptop,Not urgent,Skill development,₹1000–3000,Apple,4,Very frequently,Flipkart,>6,Always,Yes
+23-24,Male,3rd year,5000-8000,Yes,3-4 years,Smartphone,Urgent,Gaming,>₹30000,Apple,2,Rarely,Flipkart,>6,Always,Yes
+23-24,Female,3rd year,<1000,Yes,>4 years,Headphones,Extremely urgent,Skill development,₹7000–15000,No preference,5,Rarely,Amazon,>6,Always,Yes
+19-20,Female,3rd year,3000-5000,Yes,<1 year,Headphones,Extremely urgent,Gaming,₹7000–15000,No preference,1,Very frequently,Flipkart,<2,Always,Yes
+25+,Male,3rd year,1000-3000,Yes,2-3 years,Online Course,Extremely urgent,Academic use,₹1000–3000,HP / Dell / Lenovo,3,Sometimes,Amazon,<2,Rarely,Yes
+21-22,Male,4th year,5000-8000,Yes,1-2 years,Laptop,Extremely urgent,Skill development,₹7000–15000,No preference,5,Sometimes,Flipkart,<2,Always,No
+25+,Female,4th year,3000-5000,Yes,>4 years,Laptop,Urgent,Skill development,₹7000–15000,No preference,3,Sometimes,Flipkart,>6,Rarely,Yes
+19-20,Female,1st year,1000-3000,Yes,1-2 years,Smartphone,Extremely urgent,Gaming,₹3000–7000,HP / Dell / Lenovo,1,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+17-18,Male,1st year,3000-5000,Yes,<1 year,Laptop,Not urgent,Replacement,₹3000–7000,Apple,4,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Always,Yes
+23-24,Female,1st year,1000-3000,Yes,>4 years,Online Course,Extremely urgent,Skill development,₹7000–15000,Samsung / Xiaomi,1,Sometimes,Flipkart,4-6,Sometimes,Yes
+25+,Male,3rd year,<1000,Yes,>4 years,Mouse,Urgent,Academic use,₹3000–7000,Samsung / Xiaomi,1,Very frequently,Flipkart,2-4,Rarely,Yes
+23-24,Female,1st year,>8000,Yes,<1 year,Mouse,Not urgent,Replacement,>₹30000,HP / Dell / Lenovo,3,Very frequently,Manufacturer website (Apple/HP etc.),>6,Rarely,No
+25+,Male,4th year,>8000,Yes,2-3 years,Headphones,Not urgent,Skill development,₹3000–7000,Apple,3,Sometimes,Manufacturer website (Apple/HP etc.),<2,Rarely,Yes
+23-24,Male,1st year,5000-8000,Yes,1-2 years,Laptop,Urgent,Academic use,₹3000–7000,No preference,3,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Sometimes,Yes
+21-22,Male,1st year,>8000,Yes,1-2 years,Mouse,Urgent,Academic use,₹7000–15000,Samsung / Xiaomi,2,Very frequently,Manufacturer website (Apple/HP etc.),>6,Sometimes,No
+17-18,Male,4th year,1000-3000,Yes,3-4 years,Online Course,Urgent,Gaming,>₹30000,HP / Dell / Lenovo,4,Sometimes,Amazon,2-4,Rarely,Yes
+17-18,Female,4th year,5000-8000,Yes,3-4 years,Smartphone,Not urgent,Gaming,>₹30000,Samsung / Xiaomi,5,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Rarely,Yes
+21-22,Male,2nd year,5000-8000,Yes,2-3 years,Online Course,Urgent,Replacement,<₹1000,No preference,4,Very frequently,Manufacturer website (Apple/HP etc.),>6,Rarely,No
+25+,Female,3rd year,1000-3000,Yes,1-2 years,Online Course,Not urgent,Replacement,₹3000–7000,Apple,5,Rarely,Flipkart,>6,Rarely,No
+19-20,Male,1st year,<1000,Yes,<1 year,Headphones,Not urgent,Academic use,₹7000–15000,No preference,5,Very frequently,Manufacturer website (Apple/HP etc.),>6,Sometimes,No
+23-24,Male,3rd year,3000-5000,Yes,<1 year,Laptop,Urgent,Replacement,₹1000–3000,Apple,5,Very frequently,Flipkart,<2,Rarely,Yes
+17-18,Male,3rd year,1000-3000,Yes,2-3 years,Headphones,Extremely urgent,Replacement,<₹1000,Samsung / Xiaomi,3,Rarely,Manufacturer website (Apple/HP etc.),2-4,Sometimes,Yes
+21-22,Female,3rd year,1000-3000,Yes,3-4 years,Headphones,Extremely urgent,Replacement,₹1000–3000,No preference,4,Very frequently,Manufacturer website (Apple/HP etc.),2-4,Rarely,No
+25+,Female,4th year,>8000,Yes,<1 year,Headphones,Not urgent,Academic use,>₹30000,HP / Dell / Lenovo,1,Rarely,Manufacturer website (Apple/HP etc.),2-4,Always,No
+25+,Female,1st year,<1000,Yes,3-4 years,Laptop,Extremely urgent,Replacement,>₹30000,HP / Dell / Lenovo,2,Very frequently,Amazon,>6,Always,Yes
+21-22,Male,3rd year,5000-8000,Yes,3-4 years,Headphones,Urgent,Gaming,₹7000–15000,Apple,1,Very frequently,Flipkart,4-6,Rarely,No
+19-20,Male,3rd year,>8000,Yes,1-2 years,Smartphone,Urgent,Skill development,₹3000–7000,Apple,5,Rarely,Flipkart,2-4,Always,No
+23-24,Male,1st year,>8000,Yes,3-4 years,Laptop,Extremely urgent,Gaming,<₹1000,HP / Dell / Lenovo,5,Rarely,Amazon,<2,Sometimes,No
+23-24,Female,3rd year,5000-8000,Yes,3-4 years,Laptop,Urgent,Replacement,₹3000–7000,No preference,4,Rarely,Amazon,>6,Always,Yes
+25+,Female,4th year,1000-3000,Yes,3-4 years,Mouse,Urgent,Replacement,>₹30000,No preference,2,Very frequently,Flipkart,>6,Always,Yes
+25+,Female,3rd year,5000-8000,No,1-2 years,Online Course,Extremely urgent,Replacement,<₹1000,Samsung / Xiaomi,5,Rarely,Amazon,4-6,Always,Yes
+17-18,Male,4th year,1000-3000,Yes,3-4 years,Smartphone,Not urgent,Gaming,₹3000–7000,Samsung / Xiaomi,1,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Always,No
+23-24,Female,4th year,>8000,Yes,1-2 years,Online Course,Urgent,Replacement,₹1000–3000,No preference,3,Very frequently,Amazon,<2,Always,Yes
+25+,Female,2nd year,5000-8000,Yes,1-2 years,Online Course,Not urgent,Gaming,₹7000–15000,Samsung / Xiaomi,4,Very frequently,Flipkart,<2,Always,Yes
+23-24,Male,4th year,1000-3000,Yes,1-2 years,Smartphone,Urgent,Academic use,>₹30000,No preference,4,Rarely,Amazon,4-6,Sometimes,No
+25+,Male,4th year,1000-3000,No,2-3 years,Headphones,Not urgent,Academic use,<₹1000,HP / Dell / Lenovo,3,Very frequently,Amazon,>6,Rarely,Yes
+17-18,Male,3rd year,1000-3000,Yes,3-4 years,Laptop,Extremely urgent,Academic use,>₹30000,No preference,1,Rarely,Manufacturer website (Apple/HP etc.),<2,Sometimes,Yes
+17-18,Female,4th year,5000-8000,No,3-4 years,Smartphone,Not urgent,Academic use,₹7000–15000,Apple,5,Very frequently,Flipkart,<2,Sometimes,Yes
+23-24,Male,2nd year,>8000,Yes,1-2 years,Online Course,Urgent,Replacement,<₹1000,No preference,3,Very frequently,Amazon,4-6,Rarely,No
+17-18,Male,3rd year,1000-3000,Yes,<1 year,Mouse,Extremely urgent,Academic use,>₹30000,HP / Dell / Lenovo,2,Sometimes,Manufacturer website (Apple/HP etc.),<2,Sometimes,Yes
+21-22,Female,1st year,<1000,Yes,2-3 years,Mouse,Urgent,Replacement,>₹30000,Apple,5,Very frequently,Amazon,4-6,Sometimes,Yes
+21-22,Female,2nd year,1000-3000,Yes,2-3 years,Smartphone,Extremely urgent,Replacement,₹1000–3000,HP / Dell / Lenovo,5,Rarely,Flipkart,2-4,Always,Yes
+19-20,Female,4th year,3000-5000,Yes,<1 year,Headphones,Extremely urgent,Replacement,₹1000–3000,Apple,2,Rarely,Amazon,4-6,Sometimes,No
+19-20,Male,1st year,3000-5000,Yes,1-2 years,Headphones,Urgent,Replacement,<₹1000,No preference,4,Sometimes,Manufacturer website (Apple/HP etc.),>6,Rarely,Yes
+25+,Female,4th year,>8000,Yes,3-4 years,Mouse,Extremely urgent,Skill development,₹1000–3000,No preference,3,Rarely,Flipkart,2-4,Sometimes,Yes
+25+,Female,4th year,1000-3000,Yes,<1 year,Online Course,Extremely urgent,Academic use,₹1000–3000,No preference,5,Very frequently,Flipkart,<2,Always,Yes
+25+,Male,3rd year,>8000,Yes,<1 year,Headphones,Not urgent,Gaming,₹3000–7000,HP / Dell / Lenovo,3,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Rarely,No
+23-24,Male,4th year,<1000,Yes,1-2 years,Smartphone,Not urgent,Gaming,₹7000–15000,Samsung / Xiaomi,2,Sometimes,Manufacturer website (Apple/HP etc.),>6,Rarely,Yes
+19-20,Male,2nd year,>8000,Yes,2-3 years,Online Course,Extremely urgent,Replacement,₹7000–15000,Samsung / Xiaomi,5,Rarely,Manufacturer website (Apple/HP etc.),2-4,Rarely,Yes
+17-18,Male,1st year,1000-3000,Yes,>4 years,Laptop,Urgent,Gaming,<₹1000,Apple,1,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+21-22,Female,4th year,1000-3000,Yes,>4 years,Smartphone,Not urgent,Replacement,<₹1000,Apple,1,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+23-24,Male,3rd year,>8000,No,1-2 years,Headphones,Urgent,Gaming,₹3000–7000,Apple,4,Rarely,Flipkart,4-6,Sometimes,Yes
+21-22,Male,4th year,5000-8000,Yes,<1 year,Online Course,Urgent,Replacement,>₹30000,HP / Dell / Lenovo,5,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Always,Yes
+25+,Male,1st year,3000-5000,Yes,3-4 years,Mouse,Extremely urgent,Academic use,₹1000–3000,HP / Dell / Lenovo,3,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Sometimes,Yes
+23-24,Female,1st year,>8000,Yes,2-3 years,Mouse,Extremely urgent,Gaming,₹7000–15000,Samsung / Xiaomi,5,Very frequently,Manufacturer website (Apple/HP etc.),>6,Always,Yes
+19-20,Male,4th year,<1000,Yes,1-2 years,Headphones,Not urgent,Skill development,₹1000–3000,Samsung / Xiaomi,2,Very frequently,Flipkart,2-4,Rarely,Yes
+21-22,Male,2nd year,1000-3000,Yes,<1 year,Laptop,Extremely urgent,Gaming,₹7000–15000,Samsung / Xiaomi,1,Rarely,Flipkart,4-6,Always,Yes
+21-22,Female,3rd year,1000-3000,Yes,1-2 years,Smartphone,Not urgent,Replacement,₹7000–15000,Samsung / Xiaomi,2,Very frequently,Flipkart,>6,Always,No
+19-20,Male,1st year,3000-5000,Yes,>4 years,Headphones,Urgent,Gaming,<₹1000,No preference,1,Very frequently,Manufacturer website (Apple/HP etc.),<2,Always,Yes
+21-22,Male,3rd year,>8000,Yes,3-4 years,Mouse,Not urgent,Replacement,>₹30000,No preference,2,Sometimes,Flipkart,<2,Sometimes,Yes
+23-24,Female,4th year,1000-3000,Yes,<1 year,Laptop,Urgent,Gaming,₹1000–3000,Samsung / Xiaomi,4,Very frequently,Amazon,>6,Always,Yes
+21-22,Male,2nd year,<1000,Yes,1-2 years,Laptop,Urgent,Academic use,₹7000–15000,No preference,2,Sometimes,Amazon,>6,Rarely,Yes
+25+,Female,1st year,3000-5000,Yes,>4 years,Online Course,Not urgent,Skill development,₹3000–7000,HP / Dell / Lenovo,3,Rarely,Amazon,2-4,Rarely,Yes
+19-20,Male,3rd year,<1000,No,<1 year,Laptop,Urgent,Replacement,₹1000–3000,No preference,4,Very frequently,Flipkart,>6,Sometimes,No
+21-22,Female,3rd year,1000-3000,Yes,>4 years,Laptop,Not urgent,Gaming,₹3000–7000,Samsung / Xiaomi,1,Rarely,Manufacturer website (Apple/HP etc.),<2,Rarely,No
+23-24,Female,2nd year,3000-5000,No,1-2 years,Laptop,Urgent,Skill development,<₹1000,HP / Dell / Lenovo,5,Sometimes,Amazon,>6,Sometimes,Yes
+21-22,Female,3rd year,1000-3000,Yes,>4 years,Online Course,Not urgent,Skill development,<₹1000,Apple,2,Rarely,Manufacturer website (Apple/HP etc.),2-4,Sometimes,No
+21-22,Female,3rd year,>8000,Yes,3-4 years,Laptop,Extremely urgent,Replacement,₹7000–15000,HP / Dell / Lenovo,3,Rarely,Manufacturer website (Apple/HP etc.),4-6,Always,Yes
+21-22,Female,2nd year,<1000,Yes,2-3 years,Smartphone,Extremely urgent,Academic use,₹3000–7000,Samsung / Xiaomi,5,Rarely,Manufacturer website (Apple/HP etc.),>6,Sometimes,Yes
+21-22,Male,3rd year,5000-8000,Yes,<1 year,Online Course,Extremely urgent,Skill development,₹3000–7000,HP / Dell / Lenovo,5,Rarely,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+19-20,Female,3rd year,3000-5000,Yes,2-3 years,Laptop,Not urgent,Academic use,<₹1000,Apple,2,Very frequently,Flipkart,<2,Rarely,Yes
+25+,Male,4th year,>8000,Yes,3-4 years,Headphones,Extremely urgent,Skill development,₹1000–3000,Samsung / Xiaomi,4,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Rarely,No
+23-24,Female,3rd year,>8000,Yes,2-3 years,Mouse,Extremely urgent,Academic use,₹1000–3000,No preference,1,Sometimes,Manufacturer website (Apple/HP etc.),>6,Always,No
+21-22,Male,3rd year,3000-5000,Yes,<1 year,Headphones,Not urgent,Replacement,₹3000–7000,Apple,3,Very frequently,Flipkart,4-6,Rarely,No
+25+,Male,1st year,>8000,Yes,2-3 years,Smartphone,Not urgent,Academic use,₹1000–3000,HP / Dell / Lenovo,5,Very frequently,Amazon,>6,Always,Yes
+19-20,Male,3rd year,5000-8000,Yes,1-2 years,Mouse,Not urgent,Academic use,₹3000–7000,No preference,1,Rarely,Amazon,<2,Sometimes,Yes
+23-24,Female,3rd year,3000-5000,Yes,3-4 years,Laptop,Extremely urgent,Academic use,<₹1000,Apple,2,Sometimes,Flipkart,4-6,Always,Yes
+21-22,Female,3rd year,5000-8000,Yes,1-2 years,Online Course,Urgent,Skill development,>₹30000,Apple,3,Rarely,Amazon,4-6,Always,No
+17-18,Male,2nd year,5000-8000,Yes,<1 year,Laptop,Not urgent,Replacement,₹1000–3000,Samsung / Xiaomi,2,Sometimes,Flipkart,<2,Sometimes,Yes
+17-18,Male,3rd year,>8000,Yes,1-2 years,Headphones,Urgent,Skill development,>₹30000,Samsung / Xiaomi,2,Sometimes,Amazon,<2,Rarely,Yes
+23-24,Female,2nd year,<1000,Yes,2-3 years,Smartphone,Not urgent,Gaming,₹1000–3000,Apple,2,Rarely,Amazon,>6,Rarely,Yes
+21-22,Male,2nd year,5000-8000,Yes,<1 year,Laptop,Not urgent,Gaming,>₹30000,Apple,5,Rarely,Manufacturer website (Apple/HP etc.),>6,Sometimes,No
+23-24,Male,1st year,1000-3000,Yes,>4 years,Smartphone,Extremely urgent,Skill development,₹7000–15000,HP / Dell / Lenovo,5,Rarely,Flipkart,4-6,Rarely,Yes
+19-20,Female,2nd year,<1000,Yes,<1 year,Headphones,Urgent,Skill development,₹7000–15000,Apple,4,Rarely,Flipkart,4-6,Always,Yes
+23-24,Male,3rd year,1000-3000,Yes,2-3 years,Smartphone,Urgent,Academic use,₹1000–3000,HP / Dell / Lenovo,3,Very frequently,Manufacturer website (Apple/HP etc.),>6,Sometimes,Yes
+17-18,Female,3rd year,5000-8000,Yes,>4 years,Smartphone,Urgent,Gaming,₹1000–3000,Samsung / Xiaomi,2,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Sometimes,Yes
+25+,Female,3rd year,>8000,Yes,<1 year,Smartphone,Urgent,Skill development,₹3000–7000,Samsung / Xiaomi,2,Rarely,Flipkart,<2,Sometimes,Yes
+21-22,Male,2nd year,5000-8000,Yes,2-3 years,Online Course,Urgent,Replacement,<₹1000,Apple,1,Very frequently,Manufacturer website (Apple/HP etc.),>6,Rarely,Yes
+21-22,Female,3rd year,>8000,Yes,<1 year,Online Course,Extremely urgent,Skill development,>₹30000,HP / Dell / Lenovo,1,Very frequently,Amazon,4-6,Rarely,Yes
+23-24,Female,1st year,1000-3000,Yes,>4 years,Smartphone,Extremely urgent,Replacement,<₹1000,Apple,3,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Rarely,No
+23-24,Male,4th year,1000-3000,Yes,1-2 years,Headphones,Not urgent,Gaming,>₹30000,Samsung / Xiaomi,3,Sometimes,Flipkart,<2,Always,Yes
+25+,Male,4th year,1000-3000,Yes,2-3 years,Smartphone,Not urgent,Replacement,₹7000–15000,Samsung / Xiaomi,4,Rarely,Flipkart,2-4,Rarely,Yes
+23-24,Male,1st year,5000-8000,Yes,2-3 years,Online Course,Urgent,Replacement,<₹1000,Apple,3,Sometimes,Amazon,2-4,Rarely,No
+21-22,Female,4th year,5000-8000,Yes,>4 years,Online Course,Urgent,Replacement,₹3000–7000,Apple,4,Rarely,Flipkart,<2,Rarely,Yes
+21-22,Male,4th year,<1000,Yes,3-4 years,Laptop,Extremely urgent,Skill development,₹7000–15000,No preference,3,Sometimes,Flipkart,2-4,Always,No
+23-24,Male,1st year,5000-8000,Yes,1-2 years,Laptop,Urgent,Replacement,₹3000–7000,Samsung / Xiaomi,1,Sometimes,Flipkart,2-4,Rarely,Yes
+23-24,Female,2nd year,5000-8000,Yes,<1 year,Mouse,Extremely urgent,Replacement,>₹30000,No preference,3,Rarely,Amazon,<2,Rarely,No
+25+,Female,3rd year,<1000,Yes,3-4 years,Mouse,Extremely urgent,Academic use,>₹30000,Apple,5,Rarely,Manufacturer website (Apple/HP etc.),<2,Rarely,Yes
+23-24,Female,4th year,1000-3000,Yes,>4 years,Smartphone,Urgent,Skill development,₹7000–15000,Apple,4,Very frequently,Manufacturer website (Apple/HP etc.),<2,Sometimes,Yes
+25+,Female,3rd year,>8000,Yes,>4 years,Online Course,Urgent,Skill development,<₹1000,Samsung / Xiaomi,1,Sometimes,Amazon,<2,Sometimes,Yes
+17-18,Female,1st year,1000-3000,Yes,2-3 years,Laptop,Urgent,Academic use,<₹1000,No preference,2,Rarely,Amazon,>6,Sometimes,Yes
+17-18,Male,2nd year,5000-8000,Yes,<1 year,Mouse,Not urgent,Skill development,₹3000–7000,Samsung / Xiaomi,3,Very frequently,Manufacturer website (Apple/HP etc.),<2,Sometimes,No
+25+,Male,3rd year,3000-5000,No,<1 year,Headphones,Extremely urgent,Replacement,₹3000–7000,HP / Dell / Lenovo,3,Very frequently,Flipkart,<2,Always,No
+19-20,Female,4th year,<1000,No,3-4 years,Laptop,Extremely urgent,Skill development,>₹30000,No preference,2,Rarely,Amazon,>6,Rarely,Yes
+21-22,Male,3rd year,1000-3000,Yes,<1 year,Smartphone,Extremely urgent,Academic use,₹3000–7000,Apple,3,Rarely,Amazon,>6,Always,Yes
+21-22,Female,4th year,<1000,Yes,<1 year,Laptop,Not urgent,Academic use,₹7000–15000,HP / Dell / Lenovo,5,Very frequently,Flipkart,>6,Sometimes,No
+23-24,Male,2nd year,1000-3000,Yes,<1 year,Smartphone,Extremely urgent,Skill development,₹7000–15000,Samsung / Xiaomi,1,Rarely,Flipkart,>6,Always,Yes
+23-24,Male,1st year,<1000,Yes,2-3 years,Online Course,Urgent,Gaming,₹1000–3000,HP / Dell / Lenovo,4,Very frequently,Flipkart,2-4,Rarely,No
+19-20,Female,2nd year,<1000,Yes,1-2 years,Online Course,Urgent,Replacement,<₹1000,Samsung / Xiaomi,1,Sometimes,Flipkart,>6,Always,Yes
+19-20,Male,2nd year,<1000,No,>4 years,Headphones,Not urgent,Academic use,₹3000–7000,Samsung / Xiaomi,4,Sometimes,Manufacturer website (Apple/HP etc.),<2,Sometimes,No
+23-24,Male,4th year,3000-5000,Yes,>4 years,Online Course,Extremely urgent,Gaming,<₹1000,Samsung / Xiaomi,3,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Sometimes,No
+25+,Female,3rd year,5000-8000,Yes,<1 year,Online Course,Urgent,Gaming,>₹30000,HP / Dell / Lenovo,3,Rarely,Amazon,2-4,Sometimes,No
+19-20,Male,2nd year,<1000,Yes,3-4 years,Mouse,Extremely urgent,Skill development,>₹30000,Apple,5,Very frequently,Amazon,>6,Always,No
+17-18,Male,3rd year,3000-5000,Yes,3-4 years,Headphones,Urgent,Gaming,>₹30000,HP / Dell / Lenovo,3,Rarely,Amazon,<2,Rarely,Yes
+21-22,Male,1st year,>8000,Yes,3-4 years,Mouse,Urgent,Skill development,₹1000–3000,No preference,3,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Rarely,No
+17-18,Female,3rd year,1000-3000,No,3-4 years,Mouse,Not urgent,Replacement,₹7000–15000,Apple,1,Very frequently,Flipkart,<2,Always,Yes
+21-22,Female,1st year,<1000,Yes,1-2 years,Laptop,Not urgent,Academic use,<₹1000,HP / Dell / Lenovo,1,Sometimes,Manufacturer website (Apple/HP etc.),>6,Sometimes,Yes
+19-20,Male,4th year,5000-8000,Yes,1-2 years,Laptop,Extremely urgent,Skill development,₹7000–15000,HP / Dell / Lenovo,4,Very frequently,Manufacturer website (Apple/HP etc.),<2,Rarely,No
+25+,Male,3rd year,>8000,Yes,<1 year,Mouse,Urgent,Academic use,>₹30000,HP / Dell / Lenovo,2,Sometimes,Flipkart,2-4,Rarely,Yes
+19-20,Male,4th year,5000-8000,Yes,>4 years,Online Course,Not urgent,Skill development,₹7000–15000,No preference,1,Sometimes,Amazon,4-6,Sometimes,Yes
+19-20,Female,4th year,3000-5000,Yes,3-4 years,Headphones,Urgent,Replacement,₹7000–15000,Apple,5,Sometimes,Amazon,2-4,Always,Yes
+19-20,Female,2nd year,>8000,Yes,<1 year,Smartphone,Not urgent,Gaming,₹1000–3000,Samsung / Xiaomi,3,Rarely,Amazon,>6,Rarely,Yes
+17-18,Female,1st year,>8000,Yes,>4 years,Laptop,Not urgent,Gaming,<₹1000,Apple,5,Sometimes,Flipkart,>6,Sometimes,No
+25+,Female,2nd year,5000-8000,No,3-4 years,Smartphone,Extremely urgent,Replacement,₹1000–3000,Apple,5,Very frequently,Amazon,2-4,Always,Yes
+17-18,Male,3rd year,3000-5000,Yes,<1 year,Smartphone,Extremely urgent,Replacement,₹1000–3000,No preference,5,Sometimes,Flipkart,>6,Sometimes,No
+23-24,Female,4th year,5000-8000,Yes,1-2 years,Headphones,Not urgent,Replacement,₹7000–15000,HP / Dell / Lenovo,5,Rarely,Manufacturer website (Apple/HP etc.),>6,Sometimes,No
+23-24,Male,1st year,3000-5000,Yes,1-2 years,Online Course,Extremely urgent,Replacement,<₹1000,HP / Dell / Lenovo,5,Rarely,Manufacturer website (Apple/HP etc.),>6,Always,Yes
+21-22,Female,4th year,<1000,Yes,1-2 years,Laptop,Not urgent,Gaming,₹7000–15000,HP / Dell / Lenovo,3,Rarely,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+17-18,Female,4th year,>8000,Yes,<1 year,Online Course,Not urgent,Gaming,>₹30000,No preference,3,Sometimes,Amazon,<2,Always,No
+25+,Female,3rd year,1000-3000,Yes,2-3 years,Online Course,Extremely urgent,Academic use,<₹1000,Samsung / Xiaomi,2,Rarely,Flipkart,>6,Rarely,Yes
+23-24,Male,3rd year,3000-5000,No,>4 years,Online Course,Urgent,Gaming,₹1000–3000,HP / Dell / Lenovo,4,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+25+,Female,4th year,5000-8000,Yes,>4 years,Mouse,Extremely urgent,Skill development,<₹1000,HP / Dell / Lenovo,1,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+17-18,Male,2nd year,3000-5000,Yes,>4 years,Mouse,Extremely urgent,Replacement,<₹1000,Apple,1,Rarely,Manufacturer website (Apple/HP etc.),<2,Always,Yes
+25+,Female,3rd year,<1000,Yes,<1 year,Mouse,Not urgent,Skill development,₹3000–7000,Samsung / Xiaomi,1,Rarely,Flipkart,<2,Always,Yes
+23-24,Female,4th year,<1000,Yes,2-3 years,Laptop,Urgent,Academic use,₹3000–7000,Apple,2,Sometimes,Manufacturer website (Apple/HP etc.),>6,Always,No
+23-24,Female,2nd year,5000-8000,Yes,<1 year,Smartphone,Extremely urgent,Gaming,<₹1000,No preference,3,Rarely,Manufacturer website (Apple/HP etc.),2-4,Always,Yes
+23-24,Female,3rd year,<1000,Yes,<1 year,Headphones,Urgent,Gaming,>₹30000,Samsung / Xiaomi,3,Very frequently,Manufacturer website (Apple/HP etc.),<2,Sometimes,Yes
+19-20,Male,2nd year,5000-8000,No,<1 year,Mouse,Urgent,Replacement,<₹1000,Samsung / Xiaomi,1,Rarely,Manufacturer website (Apple/HP etc.),4-6,Rarely,No
+25+,Male,3rd year,5000-8000,Yes,<1 year,Smartphone,Urgent,Replacement,₹1000–3000,Apple,1,Rarely,Amazon,>6,Sometimes,Yes
+25+,Male,2nd year,3000-5000,Yes,2-3 years,Smartphone,Extremely urgent,Skill development,₹1000–3000,HP / Dell / Lenovo,4,Rarely,Amazon,>6,Rarely,Yes
+23-24,Male,1st year,>8000,Yes,1-2 years,Mouse,Urgent,Skill development,₹7000–15000,HP / Dell / Lenovo,3,Very frequently,Amazon,2-4,Sometimes,Yes
+17-18,Female,2nd year,<1000,No,2-3 years,Headphones,Urgent,Replacement,₹1000–3000,No preference,1,Sometimes,Amazon,>6,Sometimes,Yes
+19-20,Female,4th year,>8000,Yes,3-4 years,Smartphone,Not urgent,Replacement,₹3000–7000,HP / Dell / Lenovo,5,Rarely,Flipkart,>6,Always,No
+23-24,Male,3rd year,5000-8000,Yes,>4 years,Online Course,Extremely urgent,Skill development,>₹30000,No preference,2,Sometimes,Flipkart,<2,Rarely,No
+25+,Female,4th year,1000-3000,Yes,>4 years,Mouse,Not urgent,Skill development,₹3000–7000,HP / Dell / Lenovo,3,Sometimes,Manufacturer website (Apple/HP etc.),<2,Sometimes,Yes
+25+,Male,4th year,<1000,Yes,>4 years,Smartphone,Not urgent,Gaming,<₹1000,Samsung / Xiaomi,5,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Always,Yes
+19-20,Male,4th year,>8000,Yes,2-3 years,Online Course,Extremely urgent,Replacement,₹3000–7000,Apple,5,Sometimes,Amazon,2-4,Sometimes,Yes
+25+,Male,4th year,<1000,Yes,<1 year,Headphones,Not urgent,Academic use,>₹30000,HP / Dell / Lenovo,1,Rarely,Flipkart,4-6,Always,Yes
+19-20,Male,1st year,5000-8000,Yes,1-2 years,Smartphone,Not urgent,Replacement,>₹30000,No preference,3,Sometimes,Flipkart,2-4,Always,No
+21-22,Male,4th year,3000-5000,Yes,>4 years,Smartphone,Urgent,Skill development,₹7000–15000,Samsung / Xiaomi,3,Sometimes,Amazon,4-6,Sometimes,Yes
+21-22,Female,4th year,3000-5000,Yes,1-2 years,Laptop,Urgent,Academic use,<₹1000,Apple,4,Sometimes,Flipkart,4-6,Always,No
+19-20,Female,2nd year,<1000,Yes,2-3 years,Online Course,Urgent,Gaming,₹1000–3000,Apple,5,Sometimes,Flipkart,4-6,Rarely,Yes
+25+,Female,1st year,5000-8000,Yes,<1 year,Headphones,Not urgent,Skill development,₹1000–3000,HP / Dell / Lenovo,3,Rarely,Flipkart,4-6,Always,Yes
+23-24,Female,2nd year,<1000,Yes,3-4 years,Laptop,Urgent,Replacement,₹7000–15000,Samsung / Xiaomi,5,Rarely,Manufacturer website (Apple/HP etc.),<2,Rarely,Yes
+17-18,Male,4th year,>8000,Yes,>4 years,Smartphone,Urgent,Skill development,<₹1000,Apple,3,Rarely,Flipkart,4-6,Rarely,Yes
+17-18,Male,1st year,5000-8000,Yes,1-2 years,Headphones,Extremely urgent,Replacement,>₹30000,No preference,1,Very frequently,Amazon,2-4,Always,Yes
+19-20,Male,3rd year,>8000,Yes,<1 year,Mouse,Extremely urgent,Skill development,<₹1000,Samsung / Xiaomi,4,Rarely,Manufacturer website (Apple/HP etc.),4-6,Always,Yes
+21-22,Male,4th year,>8000,Yes,>4 years,Smartphone,Not urgent,Replacement,>₹30000,HP / Dell / Lenovo,5,Rarely,Manufacturer website (Apple/HP etc.),>6,Sometimes,Yes
+17-18,Female,2nd year,1000-3000,No,2-3 years,Online Course,Extremely urgent,Skill development,₹1000–3000,HP / Dell / Lenovo,4,Sometimes,Amazon,<2,Sometimes,No
+19-20,Male,1st year,1000-3000,Yes,3-4 years,Smartphone,Not urgent,Skill development,₹3000–7000,Samsung / Xiaomi,4,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+17-18,Female,3rd year,<1000,Yes,2-3 years,Mouse,Not urgent,Gaming,<₹1000,Samsung / Xiaomi,5,Sometimes,Flipkart,>6,Rarely,Yes
+21-22,Male,2nd year,<1000,Yes,1-2 years,Online Course,Not urgent,Academic use,<₹1000,No preference,3,Very frequently,Manufacturer website (Apple/HP etc.),2-4,Always,Yes
+17-18,Male,3rd year,3000-5000,Yes,3-4 years,Headphones,Extremely urgent,Skill development,<₹1000,HP / Dell / Lenovo,5,Rarely,Amazon,>6,Always,Yes
+23-24,Male,4th year,3000-5000,Yes,<1 year,Smartphone,Not urgent,Academic use,₹3000–7000,Samsung / Xiaomi,5,Sometimes,Flipkart,4-6,Rarely,No
+23-24,Female,3rd year,>8000,Yes,<1 year,Mouse,Extremely urgent,Replacement,<₹1000,HP / Dell / Lenovo,3,Very frequently,Manufacturer website (Apple/HP etc.),<2,Sometimes,Yes
+21-22,Female,2nd year,1000-3000,Yes,>4 years,Smartphone,Urgent,Replacement,₹7000–15000,No preference,5,Sometimes,Flipkart,2-4,Sometimes,No
+23-24,Female,1st year,1000-3000,Yes,>4 years,Laptop,Extremely urgent,Academic use,₹3000–7000,Apple,2,Rarely,Manufacturer website (Apple/HP etc.),2-4,Always,Yes
+23-24,Female,3rd year,5000-8000,Yes,1-2 years,Headphones,Urgent,Gaming,>₹30000,Apple,5,Very frequently,Amazon,2-4,Always,Yes
+23-24,Male,2nd year,5000-8000,Yes,2-3 years,Laptop,Not urgent,Skill development,₹3000–7000,No preference,3,Rarely,Manufacturer website (Apple/HP etc.),2-4,Always,Yes
+23-24,Male,3rd year,5000-8000,Yes,1-2 years,Mouse,Extremely urgent,Gaming,₹3000–7000,Samsung / Xiaomi,3,Rarely,Amazon,>6,Always,No
+21-22,Male,4th year,5000-8000,Yes,<1 year,Mouse,Extremely urgent,Gaming,<₹1000,No preference,1,Rarely,Flipkart,<2,Rarely,Yes
+25+,Female,1st year,<1000,Yes,2-3 years,Mouse,Not urgent,Skill development,₹7000–15000,HP / Dell / Lenovo,2,Sometimes,Flipkart,4-6,Always,Yes
+17-18,Male,1st year,>8000,Yes,>4 years,Online Course,Extremely urgent,Replacement,>₹30000,Apple,3,Rarely,Amazon,>6,Always,No
+25+,Male,3rd year,<1000,Yes,2-3 years,Laptop,Urgent,Skill development,>₹30000,No preference,5,Very frequently,Manufacturer website (Apple/HP etc.),<2,Rarely,Yes
+17-18,Female,1st year,<1000,Yes,>4 years,Mouse,Not urgent,Gaming,₹3000–7000,No preference,1,Sometimes,Flipkart,2-4,Sometimes,No
+19-20,Male,2nd year,5000-8000,Yes,3-4 years,Smartphone,Urgent,Gaming,₹3000–7000,No preference,3,Very frequently,Flipkart,>6,Sometimes,No
+17-18,Female,4th year,>8000,Yes,2-3 years,Mouse,Not urgent,Academic use,>₹30000,Apple,2,Sometimes,Flipkart,4-6,Rarely,Yes
+23-24,Male,4th year,>8000,Yes,2-3 years,Laptop,Urgent,Replacement,₹7000–15000,No preference,4,Very frequently,Flipkart,>6,Always,Yes
+23-24,Male,1st year,5000-8000,Yes,>4 years,Headphones,Not urgent,Skill development,<₹1000,No preference,3,Rarely,Flipkart,>6,Always,Yes
+19-20,Female,1st year,>8000,Yes,3-4 years,Smartphone,Urgent,Academic use,>₹30000,Apple,4,Sometimes,Flipkart,4-6,Rarely,Yes
+25+,Male,2nd year,5000-8000,Yes,3-4 years,Mouse,Urgent,Skill development,₹3000–7000,Apple,3,Sometimes,Amazon,4-6,Rarely,Yes
+23-24,Male,3rd year,3000-5000,Yes,<1 year,Online Course,Not urgent,Academic use,₹1000–3000,No preference,5,Very frequently,Amazon,4-6,Rarely,No
+21-22,Male,4th year,1000-3000,Yes,<1 year,Headphones,Not urgent,Skill development,₹3000–7000,Apple,3,Sometimes,Manufacturer website (Apple/HP etc.),>6,Sometimes,No
+23-24,Female,1st year,>8000,Yes,1-2 years,Smartphone,Extremely urgent,Skill development,₹7000–15000,Samsung / Xiaomi,4,Rarely,Manufacturer website (Apple/HP etc.),<2,Always,No
+17-18,Female,4th year,>8000,No,3-4 years,Online Course,Urgent,Gaming,₹1000–3000,Apple,2,Very frequently,Amazon,>6,Rarely,Yes
+21-22,Female,3rd year,3000-5000,Yes,<1 year,Mouse,Not urgent,Gaming,<₹1000,Apple,4,Very frequently,Flipkart,>6,Sometimes,No
+19-20,Female,3rd year,>8000,Yes,3-4 years,Headphones,Extremely urgent,Replacement,₹7000–15000,No preference,2,Rarely,Amazon,4-6,Sometimes,Yes
+21-22,Female,4th year,5000-8000,Yes,1-2 years,Online Course,Not urgent,Gaming,₹1000–3000,Samsung / Xiaomi,4,Sometimes,Amazon,4-6,Sometimes,No
+23-24,Male,4th year,3000-5000,Yes,>4 years,Headphones,Not urgent,Gaming,<₹1000,No preference,5,Very frequently,Manufacturer website (Apple/HP etc.),>6,Always,Yes
+25+,Female,4th year,5000-8000,Yes,<1 year,Headphones,Extremely urgent,Gaming,<₹1000,HP / Dell / Lenovo,5,Very frequently,Flipkart,>6,Rarely,Yes
+25+,Male,2nd year,5000-8000,Yes,>4 years,Headphones,Urgent,Gaming,₹7000–15000,Apple,2,Very frequently,Manufacturer website (Apple/HP etc.),2-4,Always,No
+19-20,Female,1st year,3000-5000,Yes,2-3 years,Smartphone,Extremely urgent,Academic use,₹3000–7000,No preference,1,Very frequently,Manufacturer website (Apple/HP etc.),2-4,Rarely,Yes
+25+,Male,2nd year,3000-5000,Yes,1-2 years,Online Course,Extremely urgent,Replacement,<₹1000,No preference,2,Very frequently,Amazon,<2,Rarely,No
+21-22,Female,1st year,<1000,Yes,<1 year,Smartphone,Extremely urgent,Gaming,₹7000–15000,Samsung / Xiaomi,2,Very frequently,Manufacturer website (Apple/HP etc.),<2,Sometimes,No
+17-18,Male,3rd year,1000-3000,Yes,3-4 years,Laptop,Urgent,Skill development,₹7000–15000,No preference,1,Rarely,Manufacturer website (Apple/HP etc.),2-4,Sometimes,No
+23-24,Male,1st year,1000-3000,Yes,1-2 years,Laptop,Urgent,Academic use,<₹1000,Samsung / Xiaomi,4,Rarely,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+25+,Male,1st year,1000-3000,Yes,3-4 years,Smartphone,Not urgent,Skill development,₹7000–15000,No preference,3,Sometimes,Amazon,<2,Sometimes,Yes
+23-24,Male,1st year,>8000,Yes,1-2 years,Smartphone,Extremely urgent,Skill development,₹7000–15000,No preference,4,Sometimes,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
+23-24,Male,1st year,>8000,Yes,1-2 years,Mouse,Not urgent,Gaming,₹7000–15000,Apple,3,Very frequently,Flipkart,2-4,Always,Yes
+17-18,Male,1st year,5000-8000,Yes,1-2 years,Laptop,Extremely urgent,Gaming,<₹1000,HP / Dell / Lenovo,1,Very frequently,Amazon,>6,Rarely,No
+17-18,Male,1st year,5000-8000,No,<1 year,Smartphone,Extremely urgent,Academic use,₹7000–15000,Samsung / Xiaomi,3,Sometimes,Manufacturer website (Apple/HP etc.),<2,Rarely,No
+17-18,Male,4th year,>8000,Yes,3-4 years,Online Course,Urgent,Gaming,₹7000–15000,HP / Dell / Lenovo,3,Very frequently,Manufacturer website (Apple/HP etc.),2-4,Always,Yes
+21-22,Male,4th year,5000-8000,Yes,<1 year,Headphones,Extremely urgent,Gaming,₹3000–7000,Apple,1,Rarely,Manufacturer website (Apple/HP etc.),4-6,Sometimes,Yes
+25+,Female,2nd year,3000-5000,Yes,3-4 years,Laptop,Not urgent,Academic use,<₹1000,No preference,3,Sometimes,Manufacturer website (Apple/HP etc.),<2,Always,Yes
+17-18,Male,1st year,3000-5000,Yes,>4 years,Online Course,Not urgent,Gaming,₹3000–7000,Samsung / Xiaomi,5,Rarely,Manufacturer website (Apple/HP etc.),4-6,Always,No
+19-20,Male,3rd year,<1000,No,<1 year,Online Course,Extremely urgent,Skill development,₹7000–15000,Samsung / Xiaomi,4,Sometimes,Manufacturer website (Apple/HP etc.),2-4,Rarely,No
+23-24,Male,1st year,<1000,Yes,<1 year,Laptop,Urgent,Skill development,₹7000–15000,Apple,2,Rarely,Manufacturer website (Apple/HP etc.),<2,Rarely,No
+25+,Male,3rd year,>8000,Yes,3-4 years,Headphones,Extremely urgent,Gaming,<₹1000,Samsung / Xiaomi,5,Rarely,Amazon,2-4,Always,Yes
+23-24,Female,2nd year,>8000,Yes,1-2 years,Laptop,Not urgent,Academic use,₹7000–15000,HP / Dell / Lenovo,2,Sometimes,Flipkart,<2,Rarely,Yes
+21-22,Male,4th year,<1000,Yes,2-3 years,Smartphone,Extremely urgent,Replacement,<₹1000,Apple,1,Sometimes,Flipkart,<2,Sometimes,Yes
+17-18,Male,2nd year,3000-5000,Yes,<1 year,Mouse,Not urgent,Replacement,>₹30000,Samsung / Xiaomi,4,Very frequently,Manufacturer website (Apple/HP etc.),>6,Rarely,Yes
+25+,Male,3rd year,3000-5000,Yes,2-3 years,Online Course,Not urgent,Replacement,₹7000–15000,No preference,1,Very frequently,Manufacturer website (Apple/HP etc.),4-6,Sometimes,Yes
+21-22,Male,2nd year,3000-5000,Yes,1-2 years,Online Course,Extremely urgent,Gaming,₹7000–15000,Apple,4,Sometimes,Flipkart,>6,Sometimes,Yes
+21-22,Female,1st year,1000-3000,No,>4 years,Mouse,Urgent,Academic use,₹7000–15000,Samsung / Xiaomi,1,Very frequently,Amazon,>6,Sometimes,No
+21-22,Male,3rd year,1000-3000,Yes,>4 years,Smartphone,Extremely urgent,Skill development,₹7000–15000,Samsung / Xiaomi,1,Rarely,Flipkart,4-6,Rarely,Yes
+25+,Male,3rd year,3000-5000,No,>4 years,Mouse,Extremely urgent,Academic use,>₹30000,No preference,4,Sometimes,Flipkart,<2,Rarely,No
+21-22,Female,4th year,3000-5000,Yes,3-4 years,Headphones,Extremely urgent,Replacement,₹7000–15000,Apple,5,Very frequently,Amazon,2-4,Always,No
+25+,Male,1st year,<1000,Yes,>4 years,Online Course,Extremely urgent,Replacement,₹3000–7000,Apple,3,Rarely,Manufacturer website (Apple/HP etc.),4-6,Rarely,Yes
